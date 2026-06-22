@@ -1,0 +1,41 @@
+// Job tracker schema. Postgres (Supabase) — one database for laptop + phone.
+// Connection is provided via the driver adapter (see lib/db.ts) and
+// prisma.config.ts; no `url` lives in this file (Prisma 7).
+
+generator client {
+  provider = "prisma-client"
+  output   = "../generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+// One job application you've sent out.
+model Application {
+  id          String   @id @default(cuid())
+  company     String
+  role        String
+  dateApplied DateTime @default(now())
+  referral    Boolean  @default(false)
+  // applied | screen | onsite | offer | rejected
+  status      String   @default("applied")
+  link        String?
+  notes       String?
+  createdAt   DateTime @default(now())
+}
+
+// A daily to-do item. `day` is a YYYY-MM-DD string so a day's list is easy to query.
+model Todo {
+  id        String   @id @default(cuid())
+  text      String
+  done      Boolean  @default(false)
+  day       String
+  createdAt DateTime @default(now())
+}
+
+// Simple named counters (e.g. "leetcode" problems solved).
+model Counter {
+  key   String @id
+  value Int    @default(0)
+}
