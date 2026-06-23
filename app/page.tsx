@@ -1,5 +1,5 @@
 import { prisma } from "@/lib/db";
-import { todayFocus, dateKey } from "@/lib/plan";
+import { todayFocus, dateKey, TIME_ZONE } from "@/lib/plan";
 import { TodoList } from "@/components/TodoList";
 import { Applications, type AppRow } from "@/components/Applications";
 import { LeetcodeCounter } from "@/components/LeetcodeCounter";
@@ -51,6 +51,7 @@ export default async function Home() {
         <h1 className="text-2xl font-bold text-stone-900">Job Tracker</h1>
         <p className="text-sm text-stone-500">
           {new Date().toLocaleDateString("en-US", {
+            timeZone: TIME_ZONE,
             weekday: "long",
             month: "long",
             day: "numeric",

@@ -6,7 +6,7 @@ import {
   updateApplicationStatus,
   deleteApplication,
 } from "@/app/actions";
-import { STATUSES, STATUS_LABELS, type Status } from "@/lib/plan";
+import { STATUSES, STATUS_LABELS, dateKey, type Status } from "@/lib/plan";
 
 export type AppRow = {
   id: string;
@@ -30,7 +30,7 @@ export function Applications({ apps }: { apps: AppRow[] }) {
   const [isPending, startTransition] = useTransition();
   const [showForm, setShowForm] = useState(false);
   const formRef = useRef<HTMLFormElement>(null);
-  const today = new Date().toISOString().slice(0, 10);
+  const today = dateKey(); // Eastern "today" for the date picker default
 
   return (
     <section className="rounded-2xl border border-stone-200 bg-white p-5 shadow-sm">

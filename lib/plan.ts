@@ -18,16 +18,36 @@ const FOCUS_BY_DAY: Record<number, Focus> = {
   6: { emoji: "🧱", title: "Weekend block", detail: "One 3–4 hr deep block: project build, mock interview, or system-design study." },
 };
 
-export function todayFocus(date = new Date()): Focus {
-  return FOCUS_BY_DAY[date.getDay()];
+// Pin "today" to Eastern time so the day rolls over at your midnight, not the
+// server's (Vercel runs on UTC). Intl handles daylight saving automatically.
+export const TIME_ZONE = "America/New_York";
+
+const WEEKDAY_INDEX: Record<string, number> = {
+  Sun: 0, Mon: 1, Tue: 2, Wed: 3, Thu: 4, Fri: 5, Sat: 6,
+};
+
+// Day-of-week (0=Sun..6=Sat) in Eastern time.
+function easternWeekday(date: Date): number {
+  const short = new Intl.DateTimeFormat("en-US", {
+    timeZone: TIME_ZONE,
+    weekday: "short",
+  }).format(date);
+  return WEEKDAY_INDEX[short];
 }
 
-// Local YYYY-MM-DD key for "today" (used to group daily todos).
+export function todayFocus(date = new Date()): Focus {
+  return FOCUS_BY_DAY[easternWeekday(date)];
+}
+
+// YYYY-MM-DD key for "today" in Eastern time (used to group daily todos).
 export function dateKey(date = new Date()): string {
-  const y = date.getFullYear();
-  const m = String(date.getMonth() + 1).padStart(2, "0");
-  const d = String(date.getDate()).padStart(2, "0");
-  return `${y}-${m}-${d}`;
+  // en-CA formats as YYYY-MM-DD.
+  return new Intl.DateTimeFormat("en-CA", {
+    timeZone: TIME_ZONE,
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).format(date);
 }
 
 export const STATUSES = ["applied", "screen", "onsite", "offer", "rejected"] as const;
