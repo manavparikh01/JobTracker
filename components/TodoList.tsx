@@ -5,7 +5,15 @@ import { addTodo, toggleTodo, deleteTodo } from "@/app/actions";
 
 export type TodoItem = { id: string; text: string; done: boolean };
 
-export function TodoList({ todos }: { todos: TodoItem[] }) {
+export function TodoList({
+  todos,
+  day,
+  isToday,
+}: {
+  todos: TodoItem[];
+  day: string;
+  isToday: boolean;
+}) {
   const [isPending, startTransition] = useTransition();
   const formRef = useRef<HTMLFormElement>(null);
 
@@ -15,7 +23,7 @@ export function TodoList({ todos }: { todos: TodoItem[] }) {
     <section className="rounded-2xl border border-stone-200 bg-white p-5 shadow-sm">
       <div className="mb-3 flex items-baseline justify-between">
         <h2 className="text-sm font-semibold uppercase tracking-wide text-stone-500">
-          Today&apos;s tasks
+          {isToday ? "Today's tasks" : "Tasks"}
         </h2>
         <span className="text-xs text-stone-400">
           {remaining} left / {todos.length}
@@ -32,9 +40,10 @@ export function TodoList({ todos }: { todos: TodoItem[] }) {
         }}
         className="mb-3 flex gap-2"
       >
+        <input type="hidden" name="day" value={day} />
         <input
           name="text"
-          placeholder="Add a task for today…"
+          placeholder={isToday ? "Add a task for today…" : "Add a task for this day…"}
           autoComplete="off"
           className="flex-1 rounded-lg border border-stone-300 px-3 py-2 text-sm outline-none focus:border-stone-500"
         />

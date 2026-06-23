@@ -39,6 +39,21 @@ export function todayFocus(date = new Date()): Focus {
   return FOCUS_BY_DAY[easternWeekday(date)];
 }
 
+// Focus for an arbitrary YYYY-MM-DD string. Weekday is derived from a fixed-date
+// parse (no timezone math) so it's correct regardless of the server's clock.
+export function focusForDay(day: string): Focus {
+  const [y, m, d] = day.split("-").map(Number);
+  const weekday = new Date(Date.UTC(y, m - 1, d)).getUTCDay();
+  return FOCUS_BY_DAY[weekday];
+}
+
+// Calendar-day key for an application's date-only `dateApplied` (stored at
+// midnight UTC). Use the UTC slice — NOT the Eastern dateKey — so the day it was
+// picked for is the day it buckets into.
+export function appDayKey(date: Date): string {
+  return date.toISOString().slice(0, 10);
+}
+
 // YYYY-MM-DD key for "today" in Eastern time (used to group daily todos).
 export function dateKey(date = new Date()): string {
   // en-CA formats as YYYY-MM-DD.

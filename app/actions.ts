@@ -22,17 +22,17 @@ export async function addApplication(formData: FormData) {
       link: String(formData.get("link") ?? "").trim() || null,
     },
   });
-  revalidatePath("/");
+  revalidatePath("/", "layout");
 }
 
 export async function updateApplicationStatus(id: string, status: string) {
   await prisma.application.update({ where: { id }, data: { status } });
-  revalidatePath("/");
+  revalidatePath("/", "layout");
 }
 
 export async function deleteApplication(id: string) {
   await prisma.application.delete({ where: { id } });
-  revalidatePath("/");
+  revalidatePath("/", "layout");
 }
 
 // --- Daily todos ---
@@ -40,18 +40,19 @@ export async function deleteApplication(id: string) {
 export async function addTodo(formData: FormData) {
   const text = String(formData.get("text") ?? "").trim();
   if (!text) return;
-  await prisma.todo.create({ data: { text, day: dateKey() } });
-  revalidatePath("/");
+  const day = String(formData.get("day") ?? "").trim() || dateKey();
+  await prisma.todo.create({ data: { text, day } });
+  revalidatePath("/", "layout");
 }
 
 export async function toggleTodo(id: string, done: boolean) {
   await prisma.todo.update({ where: { id }, data: { done } });
-  revalidatePath("/");
+  revalidatePath("/", "layout");
 }
 
 export async function deleteTodo(id: string) {
   await prisma.todo.delete({ where: { id } });
-  revalidatePath("/");
+  revalidatePath("/", "layout");
 }
 
 // --- LeetCode counter ---
@@ -64,5 +65,5 @@ export async function bumpLeetcode(delta: number) {
     create: { key: "leetcode", value },
     update: { value },
   });
-  revalidatePath("/");
+  revalidatePath("/", "layout");
 }
