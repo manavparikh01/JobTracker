@@ -35,6 +35,26 @@ function CalendarIcon() {
   );
 }
 
+function BookIcon() {
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="24"
+      height="24"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="1.7"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      aria-hidden="true"
+    >
+      <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" />
+      <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z" />
+    </svg>
+  );
+}
+
 // The full dashboard, scoped to a single day. Used by `/` (today) and `/day/[date]`.
 export async function DayDashboard({ day }: { day: string }) {
   const today = dateKey();
@@ -98,14 +118,24 @@ export async function DayDashboard({ day }: { day: string }) {
             </Link>
           )}
         </div>
-        <Link
-          href="/calendar"
-          aria-label="Open calendar"
-          title="Calendar"
-          className="mt-1 text-stone-400 transition hover:text-stone-700"
-        >
-          <CalendarIcon />
-        </Link>
+        <div className="mt-1 flex items-center gap-3">
+          <Link
+            href="/reading"
+            aria-label="Open reading list"
+            title="Reading list"
+            className="text-stone-400 transition hover:text-stone-700"
+          >
+            <BookIcon />
+          </Link>
+          <Link
+            href="/calendar"
+            aria-label="Open calendar"
+            title="Calendar"
+            className="text-stone-400 transition hover:text-stone-700"
+          >
+            <CalendarIcon />
+          </Link>
+        </div>
       </header>
 
       {/* Focus for the day, from the 3-month plan */}

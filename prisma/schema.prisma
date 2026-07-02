@@ -39,3 +39,12 @@ model Counter {
   key   String @id
   value Int    @default(0)
 }
+
+// Per-item state for the reading list. The list itself lives in lib/reading.ts;
+// only your check-state + note are stored here, keyed by the item's stable id.
+model ReadingProgress {
+  itemId    String   @id
+  done      Boolean  @default(false)
+  comment   String?
+  updatedAt DateTime @updatedAt
+}

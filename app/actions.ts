@@ -55,6 +55,27 @@ export async function deleteTodo(id: string) {
   revalidatePath("/", "layout");
 }
 
+// --- Reading list ---
+
+export async function toggleReadingItem(itemId: string, done: boolean) {
+  await prisma.readingProgress.upsert({
+    where: { itemId },
+    create: { itemId, done },
+    update: { done },
+  });
+  revalidatePath("/", "layout");
+}
+
+export async function setReadingComment(itemId: string, comment: string) {
+  const value = comment.trim() || null;
+  await prisma.readingProgress.upsert({
+    where: { itemId },
+    create: { itemId, comment: value },
+    update: { comment: value },
+  });
+  revalidatePath("/", "layout");
+}
+
 // --- LeetCode counter ---
 
 export async function bumpLeetcode(delta: number) {
