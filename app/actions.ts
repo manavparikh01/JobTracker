@@ -76,6 +76,45 @@ export async function setReadingComment(itemId: string, comment: string) {
   revalidatePath("/", "layout");
 }
 
+// --- Job leads ---
+
+// Mark a lead as applied. This is the whole point of the leads page: instead of
+// re-typing the job into Applications, one click both (a) records the lead as
+// "applied" so it drops off the active leads list, and (b) creates the matching
+// Application row so it shows up in your pipeline immediately.
+export async function markLeadApplied(lead: {
+  id: string;
+  company: string;
+  role: string;
+  url?: string | null;
+}) {
+  await prisma.$transaction([
+    prisma.application.create({
+      data: {
+        company: lead.company,
+        role: lead.role,
+        link: lead.url?.trim() || null,
+      },
+    }),
+    prisma.leadStatus.upsert({
+      where: { leadId: lead.id },
+      create: { leadId: lead.id, status: "applied" },
+      update: { status: "applied" },
+    }),
+  ]);
+  revalidatePath("/", "layout");
+}
+
+// Set a lead's triage state directly (used for Dismiss and for undoing).
+export async function setLeadStatus(leadId: string, status: string) {
+  await prisma.leadStatus.upsert({
+    where: { leadId },
+    create: { leadId, status },
+    update: { status },
+  });
+  revalidatePath("/", "layout");
+}
+
 // --- LeetCode counter ---
 
 export async function bumpLeetcode(delta: number) {

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "seed-welcome",
+    "company": "How this works",
+    "role": "Your daily job-finder writes here each weekday morning",
+    "location": "Big US cities + remote",
+    "salary": "$140k+ target",
+    "url": "",
+    "source": "system",
+    "note": "New leads land on this page automatically. Hit ‘Applied’ to move one into your Applications, or ‘Dismiss’ to clear it. You can delete this seed row from data/leads.json.",
+    "foundOn": "2026-07-27"
+  }
+]

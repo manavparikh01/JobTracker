@@ -48,3 +48,13 @@ model ReadingProgress {
   comment   String?
   updatedAt DateTime @updatedAt
 }
+
+// Per-lead state for the job leads page. The lead content itself lives in
+// data/leads.json (appended to by the daily job-finder task); only your triage
+// state is stored here, keyed by the lead's stable id.
+// status: new | applied | dismissed
+model LeadStatus {
+  leadId    String   @id
+  status    String   @default("new")
+  updatedAt DateTime @updatedAt
+}
