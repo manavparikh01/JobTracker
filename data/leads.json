@@ -119,5 +119,104 @@
     "source": "HN Who's Hiring (Jul 2026)",
     "note": "Profitable seed-stage web-data platform for AI (50M+ pages/wk, 7-fig ARR). Founding role, NYC, AI-native.",
     "foundOn": "2026-07-28"
+  },
+  {
+    "id": "doordash-software-engineer-i-entry-level-job-boards-greenhouse-io-doordashusa-jo",
+    "company": "DoorDash",
+    "role": "Software Engineer I, Entry-Level",
+    "location": "New York, NY / San Francisco, CA / LA / Seattle / Sunnyvale",
+    "salary": "$107,400–$158,000",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610",
+    "source": "Greenhouse",
+    "note": "Exp: new grad (grad Fall 2025–Summer 2026, ≤2 yrs FT) — big-tech entry role, Python/Java, scalable backend + mentorship. Strong junior match.",
+    "foundOn": "2026-07-29"
+  },
+  {
+    "id": "scale-ai-software-engineer-new-grad-job-boards-greenhouse-io-scaleai-jobs-460599",
+    "company": "Scale AI",
+    "role": "Software Engineer - New Grad",
+    "location": "San Francisco, CA",
+    "salary": "$124,000–$155,000",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4605996005",
+    "source": "Greenhouse",
+    "note": "Exp: new grad (grad Fall 2025/Spring 2026) — AI data foundry, projects include building a customer-service RAG app. Directly on his AI interest.",
+    "foundOn": "2026-07-29"
+  },
+  {
+    "id": "loop-software-engineer-ai-2026-new-grad-job-boards-greenhouse-io-loop-jobs-57805",
+    "company": "Loop",
+    "role": "Software Engineer, AI (2026 New Grad)",
+    "location": "San Francisco, CA / New York, NY (4 days onsite)",
+    "salary": "$150,000 (SF/NYC); $125,000 (Chicago)",
+    "url": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
+    "source": "Greenhouse",
+    "note": "Exp: new grad (BS+ STEM, start 2026) — production AI for supply chain: LLM agents, foundation models, full-stack. Excellent AI/agents junior fit.",
+    "foundOn": "2026-07-29"
+  },
+  {
+    "id": "glean-software-engineer-university-grad-job-boards-greenhouse-io-gleanwork-jobs-",
+    "company": "Glean",
+    "role": "Software Engineer, University Grad",
+    "location": "San Francisco Bay Area (hybrid 3–4 days)",
+    "salary": "$140,000–$150,000",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4592324005",
+    "source": "Greenhouse",
+    "note": "Exp: new grad (CS degree) — Work AI platform (enterprise search/RAG + agents). Backend/Product/ML tracks. Top-tier AI/RAG junior match.",
+    "foundOn": "2026-07-29"
+  },
+  {
+    "id": "sigma-computing-software-engineer-new-grad-program-job-boards-greenhouse-io-sigm",
+    "company": "Sigma Computing",
+    "role": "Software Engineer (New Grad Program)",
+    "location": "San Francisco, CA & New York, NY",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003",
+    "source": "Greenhouse",
+    "note": "Exp: new grad — structured new-grad program at a well-funded analytics/AI company with mentorship. Solid junior general-SWE role.",
+    "foundOn": "2026-07-29"
+  },
+  {
+    "id": "perpay-software-engineer-new-grad-job-boards-greenhouse-io-perpay-jobs-403457800",
+    "company": "Perpay",
+    "role": "Software Engineer, New Grad",
+    "location": "Philadelphia, PA (onsite)",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/perpay/jobs/4034578007",
+    "source": "Greenhouse",
+    "note": "Exp: new grad (1–2 internships) — fullstack (React/Python/Django, AWS) at a profitable fintech B Corp. Junior fit; note: 100% onsite Philly.",
+    "foundOn": "2026-07-29"
+  },
+  {
+    "id": "within-ai-engineer-job-boards-greenhouse-io-agencywithin-jobs-5056863007",
+    "company": "WITHIN",
+    "role": "AI Engineer",
+    "location": "Long Island City, NY (hybrid)",
+    "salary": "$90,900–$254,100 (Level 1 ≈ $90.9k–$123.5k)",
+    "url": "https://job-boards.greenhouse.io/agencywithin/jobs/5056863007",
+    "source": "Greenhouse",
+    "note": "Exp: junior-friendly, no min years stated (Level 1–5 banding) — build internal LLM agent platform: tool-calling, RAG, evals, Python. Directly AI/agents.",
+    "foundOn": "2026-07-29"
+  },
+  {
+    "id": "future-applied-ai-engineer-job-boards-greenhouse-io-future-jobs-4683133005",
+    "company": "Future",
+    "role": "Applied AI Engineer",
+    "location": "Remote (US)",
+    "salary": "$215,000–$250,000",
+    "url": "https://job-boards.greenhouse.io/future/jobs/4683133005",
+    "source": "Greenhouse",
+    "note": "Exp: mid (no explicit years; wants shipped production LLM/agents, LangGraph, evals) — ship AI agents end-to-end. Great AI/agents fit; comp is high-end.",
+    "foundOn": "2026-07-29"
+  },
+  {
+    "id": "remesh-software-engineer-job-boards-greenhouse-io-remesh-jobs-8450776002",
+    "company": "Remesh",
+    "role": "Software Engineer",
+    "location": "Remote (US)",
+    "salary": "$135,000–$170,000",
+    "url": "https://job-boards.greenhouse.io/remesh/jobs/8450776002",
+    "source": "Greenhouse",
+    "note": "Exp: 3–5 yrs (stretch) — AI-first shop (Claude Code/Cursor), building agents + RAG, JS/TS + Python. 4-day work week. Stretch on years but strong AI fit.",
+    "foundOn": "2026-07-29"
   }
 ]
