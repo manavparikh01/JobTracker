@@ -218,5 +218,126 @@
     "source": "Greenhouse",
     "note": "Exp: 3–5 yrs (stretch) — AI-first shop (Claude Code/Cursor), building agents + RAG, JS/TS + Python. 4-day work week. Stretch on years but strong AI fit.",
     "foundOn": "2026-07-29"
+  },
+  {
+    "id": "harvey-software-engineer-new-grad-2026-jobs-ashbyhq-com-harvey-163860df-ae88-437",
+    "company": "Harvey",
+    "role": "Software Engineer, New Grad (2026)",
+    "location": "San Francisco / New York",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/harvey/163860df-ae88-437d-81da-305efa554dff",
+    "source": "Ashby",
+    "note": "Exp: new grad — Frontier agentic AI for legal/professional services; strong PMF, fast-scaling. Direct match to his AI/agents interest.",
+    "foundOn": "2026-07-30"
+  },
+  {
+    "id": "replit-software-engineer-new-grad-summer-2026-jobs-ashbyhq-com-replit-b5e81eae-0",
+    "company": "Replit",
+    "role": "Software Engineer, New Grad (Summer 2026)",
+    "location": "Foster City, CA / Remote",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
+    "source": "Ashby",
+    "note": "Exp: new grad — AI-native coding platform (agents reshaping how software is built). Great early-career AI fit.",
+    "foundOn": "2026-07-30"
+  },
+  {
+    "id": "mirage-software-engineer-early-career-jobs-ashbyhq-com-mirage-cbf278fd-84ec-48d9",
+    "company": "Mirage",
+    "role": "Software Engineer, Early Career",
+    "location": "San Francisco",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/mirage/cbf278fd-84ec-48d9-8052-b76abb035ac7",
+    "source": "Ashby",
+    "note": "Exp: early career — Foundational problems with outsized impact; early team member at an AI startup.",
+    "foundOn": "2026-07-30"
+  },
+  {
+    "id": "weride-ai-general-software-engineer-new-grad-2026-jobs-lever-co-weride-94562b95-",
+    "company": "WeRide.ai",
+    "role": "General Software Engineer, New Grad 2026",
+    "location": "San Jose, CA",
+    "salary": "",
+    "url": "https://jobs.lever.co/weride/94562b95-f574-4a60-bfbf-0cafb5c8ea3d",
+    "source": "Lever",
+    "note": "Exp: new grad — Autonomous-driving AI company; general SWE, good for backend generalist skills.",
+    "foundOn": "2026-07-30"
+  },
+  {
+    "id": "seatgeek-software-engineer-new-grad-job-boards-greenhouse-io-seatgeek-jobs-78589",
+    "company": "SeatGeek",
+    "role": "Software Engineer, New Grad",
+    "location": "New York, NY",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/seatgeek/jobs/7858968",
+    "source": "Greenhouse",
+    "note": "Exp: new grad — Established NYC tech company; solid general SWE new-grad role.",
+    "foundOn": "2026-07-30"
+  },
+  {
+    "id": "stubhub-software-engineer-i-new-grad-consumer-experience-job-boards-eu-greenhous",
+    "company": "StubHub",
+    "role": "Software Engineer I (New Grad), Consumer Experience",
+    "location": "New York, NY",
+    "salary": "",
+    "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4825411101",
+    "source": "Greenhouse",
+    "note": "Exp: new grad / SWE I — Consumer product engineering in NYC; entry-level full-stack.",
+    "foundOn": "2026-07-30"
+  },
+  {
+    "id": "notion-software-engineer-new-grad-jobs-ashbyhq-com-notion-a6311f97-4850-4674-a5f",
+    "company": "Notion",
+    "role": "Software Engineer, New Grad",
+    "location": "San Francisco",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555",
+    "source": "Ashby",
+    "note": "Exp: new grad — Productivity company shipping heavy AI features; strong brand for early career.",
+    "foundOn": "2026-07-30"
+  },
+  {
+    "id": "sharebite-ai-engineer-starts-full-stack-job-boards-greenhouse-io-sharebite-jobs-",
+    "company": "Sharebite",
+    "role": "AI Engineer (starts Full-Stack)",
+    "location": "Remote (US)",
+    "salary": "$110k–$130k",
+    "url": "https://job-boards.greenhouse.io/sharebite/jobs/5848230004",
+    "source": "Greenhouse",
+    "note": "Exp: 5+ yrs full-stack + 1–2 yrs AI (stretch) — Role grows into AI: LLMs, RAG, agents in production. AI-native, but senior-leaning experience ask.",
+    "foundOn": "2026-07-30"
+  },
+  {
+    "id": "calendly-machine-learning-engineer-job-boards-greenhouse-io-calendly-jobs-838161",
+    "company": "Calendly",
+    "role": "Machine Learning Engineer",
+    "location": "Remote (US)",
+    "salary": "$168k–$245k",
+    "url": "https://job-boards.greenhouse.io/calendly/jobs/8381613002",
+    "source": "Greenhouse",
+    "note": "Exp: 4+ yrs (stretch) — Full ML lifecycle, embeddings/semantic search, foundation models. Great comp; a reach on years.",
+    "foundOn": "2026-07-30"
+  },
+  {
+    "id": "corestory-ai-engineer-job-boards-greenhouse-io-corestory-jobs-4984207007",
+    "company": "CoreStory",
+    "role": "AI Engineer",
+    "location": "Remote (US)",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/corestory/jobs/4984207007",
+    "source": "Greenhouse",
+    "note": "Exp: 7+ yrs total / 3+ AI (stretch) — LLMs, RAG, LangChain/LlamaIndex, vector DBs, chat agents. Perfect topic fit but senior ask.",
+    "foundOn": "2026-07-30"
+  },
+  {
+    "id": "perfectserve-software-engineer-full-stack-ai-job-boards-greenhouse-io-perfectser",
+    "company": "PerfectServe",
+    "role": "Software Engineer – Full Stack AI",
+    "location": "Remote (US)",
+    "salary": "$130k–$170k",
+    "url": "https://job-boards.greenhouse.io/perfectserve/jobs/5830849004",
+    "source": "Greenhouse",
+    "note": "Exp: 5+ yrs (stretch) — Builder role: LLM APIs, RAG, vector search, guardrails in healthcare SaaS. AI-heavy but senior-leaning.",
+    "foundOn": "2026-07-30"
   }
 ]
