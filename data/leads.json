@@ -339,5 +339,82 @@
     "source": "Greenhouse",
     "note": "Exp: 5+ yrs (stretch) — Builder role: LLM APIs, RAG, vector search, guardrails in healthcare SaaS. AI-heavy but senior-leaning.",
     "foundOn": "2026-07-30"
+  },
+  {
+    "id": "glean-software-engineer-university-grad-2026-job-boards-greenhouse-io-gleanwork-",
+    "company": "Glean",
+    "role": "Software Engineer, University Grad (2026)",
+    "location": "Palo Alto, CA",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4592324005",
+    "source": "Greenhouse",
+    "note": "Exp: new grad — enterprise RAG/search over company knowledge; direct RAG/agents fit.",
+    "foundOn": "2026-07-31"
+  },
+  {
+    "id": "eliseai-software-engineer-new-grads-2025-2026-jobs-ashbyhq-com-eliseai-1ffbd278-",
+    "company": "EliseAI",
+    "role": "Software Engineer (New Grads 2025-2026)",
+    "location": "New York, NY",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/eliseai/1ffbd278-a5fe-443c-984f-521d61a97353",
+    "source": "Ashby",
+    "note": "Exp: new grad — integrating AI agents into housing/healthcare workflows; agents fit.",
+    "foundOn": "2026-07-31"
+  },
+  {
+    "id": "loop-2026-new-grad-software-engineer-ai-job-boards-greenhouse-io-loop-jobs-57805",
+    "company": "Loop",
+    "role": "2026 New Grad | Software Engineer, AI",
+    "location": "San Francisco, CA / New York, NY",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
+    "source": "Greenhouse",
+    "note": "Exp: new grad — AI-focused eng role; BS+ in STEM; strong AI match (in-person 4 days).",
+    "foundOn": "2026-07-31"
+  },
+  {
+    "id": "loop-2026-new-grad-software-engineer-full-stack-job-boards-greenhouse-io-loop-jo",
+    "company": "Loop",
+    "role": "2026 New Grad | Software Engineer, Full-Stack",
+    "location": "San Francisco, CA / Chicago, IL",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
+    "source": "Greenhouse",
+    "note": "Exp: new grad — full-stack SWE; BS+ in STEM; general SWE fit (in-person 4 days).",
+    "foundOn": "2026-07-31"
+  },
+  {
+    "id": "airtable-software-engineer-new-grad-2026-job-boards-greenhouse-io-airtable-jobs-",
+    "company": "Airtable",
+    "role": "Software Engineer, New Grad (2026)",
+    "location": "San Francisco, CA / New York, NY",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/airtable/jobs/8409376002",
+    "source": "Greenhouse",
+    "note": "Exp: new grad — product SWE at strong company; general full-stack fit.",
+    "foundOn": "2026-07-31"
+  },
+  {
+    "id": "cerebras-systems-software-engineer-new-grad-2026-job-boards-greenhouse-io-earlyt",
+    "company": "Cerebras Systems",
+    "role": "Software Engineer, New Grad 2026",
+    "location": "Sunnyvale, CA",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/earlytalentcerebras/jobs/7731286003",
+    "source": "Greenhouse",
+    "note": "Exp: new grad — AI compute/hardware company, full-stack; adjacent to LLM infra.",
+    "foundOn": "2026-07-31"
+  },
+  {
+    "id": "underdog-associate-software-engineer-2026-new-grad-job-boards-greenhouse-io-unde",
+    "company": "Underdog",
+    "role": "Associate Software Engineer, 2026 New Grad",
+    "location": "Remote (US)",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/underdogfantasy/jobs/4647374005",
+    "source": "Greenhouse",
+    "note": "Exp: new grad — OOP backend (Ruby on Rails/Swift/Kotlin); general SWE fit, remote.",
+    "foundOn": "2026-07-31"
   }
 ]
