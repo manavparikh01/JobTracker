@@ -416,5 +416,104 @@
     "source": "Greenhouse",
     "note": "Exp: new grad — OOP backend (Ruby on Rails/Swift/Kotlin); general SWE fit, remote.",
     "foundOn": "2026-07-31"
+  },
+  {
+    "id": "notion-software-engineer-new-grad-ai-jobs-ashbyhq-com-notion-7e6dc7fe-7ddd-42c1-",
+    "company": "Notion",
+    "role": "Software Engineer, New Grad (AI)",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9",
+    "source": "Ashby",
+    "note": "Exp: new grad — AI features in the Notion workspace; strong AI-native fit.",
+    "foundOn": "2026-08-03"
+  },
+  {
+    "id": "verkada-backend-software-engineer-university-graduate-2026-job-boards-greenhouse",
+    "company": "Verkada",
+    "role": "Backend Software Engineer, University Graduate 2026",
+    "location": "San Mateo, CA",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5026066007",
+    "source": "Greenhouse",
+    "note": "Exp: new grad — full-stack/backend on security systems; general SWE fit.",
+    "foundOn": "2026-08-03"
+  },
+  {
+    "id": "flex-software-engineer-i-fullstack-risk-engineering-new-grad-2025-job-boards-gre",
+    "company": "Flex",
+    "role": "Software Engineer I, Fullstack, Risk Engineering (New Grad 2025)",
+    "location": "New York, NY",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/flex/jobs/4649208005",
+    "source": "Greenhouse",
+    "note": "Exp: new grad — fullstack APIs for risk/fraud/credit; general SWE fit.",
+    "foundOn": "2026-08-03"
+  },
+  {
+    "id": "icapital-full-stack-engineer-associate-job-boards-greenhouse-io-icapitalnetwork-",
+    "company": "iCapital",
+    "role": "Full Stack Engineer, Associate",
+    "location": "New York, NY",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8549590002",
+    "source": "Greenhouse",
+    "note": "Exp: associate/early-career — TS microservices w/ Scala + Rails backend.",
+    "foundOn": "2026-08-03"
+  },
+  {
+    "id": "fireworks-ai-software-engineer-infrastructure-early-career-job-boards-greenhouse",
+    "company": "Fireworks AI",
+    "role": "Software Engineer, Infrastructure (Early Career)",
+    "location": "Redwood City, CA",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/fireworksai/jobs/4036755009",
+    "source": "Greenhouse",
+    "note": "Exp: early career — infra at an LLM inference platform; AI-native fit.",
+    "foundOn": "2026-08-03"
+  },
+  {
+    "id": "pointone-new-grad-software-engineer-jobs-ashbyhq-com-pointone-1e312db8-6d18-4d07",
+    "company": "PointOne",
+    "role": "New Grad Software Engineer",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/PointOne/1e312db8-6d18-4d07-af99-ed3ba165e7d9",
+    "source": "Ashby",
+    "note": "Exp: new grad — AI startup, general SWE.",
+    "foundOn": "2026-08-03"
+  },
+  {
+    "id": "unify-new-grad-software-engineer-jobs-ashbyhq-com-unify-762e3fd4-7813-4da8-bb02-",
+    "company": "Unify",
+    "role": "New Grad Software Engineer",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/unify/762e3fd4-7813-4da8-bb02-cc6050e3626a",
+    "source": "Ashby",
+    "note": "Exp: new grad — AI/GTM startup, general SWE.",
+    "foundOn": "2026-08-03"
+  },
+  {
+    "id": "perplexity-full-stack-software-engineer-applied-ai-jobs-ashbyhq-com-perplexity-8",
+    "company": "Perplexity",
+    "role": "Full Stack Software Engineer, Applied AI",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/perplexity/8e98cd9a-ef90-4e9b-9f4d-3d93f6e3a8fc",
+    "source": "Ashby",
+    "note": "Exp: check listing (likely 2+ yrs) — applied AI/search; strong LLM fit.",
+    "foundOn": "2026-08-03"
+  },
+  {
+    "id": "anthropic-full-stack-software-engineer-reinforcement-learning-job-boards-greenho",
+    "company": "Anthropic",
+    "role": "Full-Stack Software Engineer, Reinforcement Learning",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5186067008",
+    "source": "Greenhouse",
+    "note": "Exp: mid+ (stretch) — fullstack around RL tooling; verify YOE before applying.",
+    "foundOn": "2026-08-03"
   }
 ]
