@@ -515,5 +515,38 @@
     "source": "Greenhouse",
     "note": "Exp: mid+ (stretch) — fullstack around RL tooling; verify YOE before applying.",
     "foundOn": "2026-08-03"
+  },
+  {
+    "id": "together-ai-software-engineer-new-grad-job-boards-greenhouse-io-togetherai-jobs-",
+    "company": "Together AI",
+    "role": "Software Engineer - New Grad",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/togetherai/jobs/4835292007",
+    "source": "Greenhouse",
+    "note": "Exp: new grad — AI infra / LLM serving platform. Good AI-native fit.",
+    "foundOn": "2026-08-04"
+  },
+  {
+    "id": "anduril-industries-2026-early-career-software-engineer-job-boards-greenhouse-io-",
+    "company": "Anduril Industries",
+    "role": "2026 Early Career Software Engineer",
+    "location": "Costa Mesa, CA",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4802146007",
+    "source": "Greenhouse",
+    "note": "Exp: 3 mo-2 yrs — general SWE, quarterly early-career cohorts.",
+    "foundOn": "2026-08-04"
+  },
+  {
+    "id": "affirm-software-engineer-ii-backend-ai-agents-job-boards-greenhouse-io-affirm-jo",
+    "company": "Affirm",
+    "role": "Software Engineer II, Backend (AI Agents)",
+    "location": "Remote (US)",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7637067003",
+    "source": "Greenhouse",
+    "note": "Exp: ~2-3+ yrs (mid, mild stretch) — backend for AI agents. Strong agents fit, US-remote.",
+    "foundOn": "2026-08-04"
   }
 ]
