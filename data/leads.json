@@ -548,5 +548,49 @@
     "source": "Greenhouse",
     "note": "Exp: ~2-3+ yrs (mid, mild stretch) — backend for AI agents. Strong agents fit, US-remote.",
     "foundOn": "2026-08-04"
+  },
+  {
+    "id": "flex-software-engineer-ii-core-platform-job-boards-greenhouse-io-flex-jobs-46944",
+    "company": "Flex",
+    "role": "Software Engineer II, Core Platform",
+    "location": "Remote (US)",
+    "salary": "$119k–$175k",
+    "url": "https://job-boards.greenhouse.io/flex/jobs/4694429005",
+    "source": "Greenhouse",
+    "note": "Exp: 2+ yrs — Backend Java/Python, AWS, payments/identity; remote-first, clean mid-level SWE match.",
+    "foundOn": "2026-08-05"
+  },
+  {
+    "id": "launchdarkly-backend-engineer-ai-job-boards-greenhouse-io-launchdarkly-jobs-7649",
+    "company": "LaunchDarkly",
+    "role": "Backend Engineer, AI",
+    "location": "Hybrid — SF Bay Area (Oakland 2d/wk)",
+    "salary": "$136.5k–$187.7k (Zone 1)",
+    "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7649833003",
+    "source": "Greenhouse",
+    "note": "Exp: 2-4 yrs — GenAI/LLM backend in Go/Python, prompt eng & LLM APIs; strong AI fit, mid-level.",
+    "foundOn": "2026-08-05"
+  },
+  {
+    "id": "cerebras-software-engineer-new-grad-2026-job-boards-greenhouse-io-earlytalentcer",
+    "company": "Cerebras",
+    "role": "Software Engineer - New Grad 2026",
+    "location": "Sunnyvale, CA (hybrid)",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/earlytalentcerebras/jobs/7731286003",
+    "source": "Greenhouse",
+    "note": "Exp: new grad (2026) — AI infra/systems in C/C++; low-level (less RAG) but top AI hardware co (OpenAI partner).",
+    "foundOn": "2026-08-05"
+  },
+  {
+    "id": "weride-new-grads-2026-general-software-engineer-jobs-lever-co-weride-94562b95-f5",
+    "company": "WeRide",
+    "role": "New Grads 2026 - General Software Engineer",
+    "location": "San Jose, CA",
+    "salary": "",
+    "url": "https://jobs.lever.co/weride/94562b95-f574-4a60-bfbf-0cafb5c8ea3d",
+    "source": "Lever",
+    "note": "Exp: new grad (2026) — General SWE at autonomous-driving/AI company; broad early-career role.",
+    "foundOn": "2026-08-05"
   }
 ]
