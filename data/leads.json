@@ -592,5 +592,192 @@
     "source": "Lever",
     "note": "Exp: new grad (2026) — General SWE at autonomous-driving/AI company; broad early-career role.",
     "foundOn": "2026-08-05"
+  },
+  {
+    "id": "klaviyo-ai-engineer-i-job-boards-greenhouse-io-klaviyocampus-jobs-7621072003",
+    "company": "Klaviyo",
+    "role": "AI Engineer I",
+    "location": "Boston, MA (hybrid 3d/wk)",
+    "salary": "$104k–$156k",
+    "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7621072003",
+    "source": "Greenhouse",
+    "note": "Exp: new grad (advanced degree, Dec 2025/May-Jun 2026) — GenAI/agentic backend in Python/FastAPI serving AI agents at scale; excellent AI/agents fit for early-career.",
+    "foundOn": "2026-08-06"
+  },
+  {
+    "id": "smithrx-software-engineer-new-grad-job-boards-greenhouse-io-smithrx-jobs-8431453",
+    "company": "SmithRx",
+    "role": "Software Engineer, New Grad",
+    "location": "Remote (US)",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/smithrx/jobs/8431453002",
+    "source": "Greenhouse",
+    "note": "Exp: new grad / <2 yrs — full-stack Go/GraphQL/React/AWS at health-tech startup; fully remote, GenAI-friendly team, clean junior fit.",
+    "foundOn": "2026-08-06"
+  },
+  {
+    "id": "palantir-software-engineer-new-grad-jobs-lever-co-palantir-94984771-0704-446c-88",
+    "company": "Palantir",
+    "role": "Software Engineer, New Grad",
+    "location": "New York, NY (hybrid)",
+    "salary": "$145k–$155k",
+    "url": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92",
+    "source": "Lever",
+    "note": "Exp: new grad — general SWE (Java/Go/TypeScript) on Foundry/Gotham/Apollo; top company, strong comp. Note: US security clearance eligibility valued.",
+    "foundOn": "2026-08-06"
+  },
+  {
+    "id": "further-entry-level-software-developer-graduate-leadership-program-job-boards-gr",
+    "company": "Further",
+    "role": "Entry Level Software Developer (Graduate Leadership Program)",
+    "location": "Dallas, TX (hybrid 3d/wk)",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8384012002",
+    "source": "Greenhouse",
+    "note": "Exp: new grad (Fall 2025–Spring 2026 grad) — data/cloud/AI consultancy, Git/TypeScript/Python + GenAI tooling; junior fit, comp likely sub-$100k.",
+    "foundOn": "2026-08-06"
+  },
+  {
+    "id": "axios-software-engineer-job-boards-greenhouse-io-axios-jobs-7818788",
+    "company": "Axios",
+    "role": "Software Engineer",
+    "location": "Remote (US)",
+    "salary": "$130k–$165k",
+    "url": "https://job-boards.greenhouse.io/axios/jobs/7818788",
+    "source": "Greenhouse",
+    "note": "Exp: 2–5+ yrs — backend/full-stack in Go/Python, REST APIs, uses Claude Code/Copilot; remote-first, strong mid-level SWE match.",
+    "foundOn": "2026-08-06"
+  },
+  {
+    "id": "ghx-software-engineer-ii-full-stack-angular-java-aws-job-boards-greenhouse-io-gl",
+    "company": "GHX",
+    "role": "Software Engineer II — Full Stack (Angular, Java, AWS)",
+    "location": "Remote (US)",
+    "salary": "$81k–$108k",
+    "url": "https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4700778005",
+    "source": "Greenhouse",
+    "note": "Exp: 2–3 yrs — full-stack Angular/Java/AWS at healthcare-supply-chain SaaS; remote, mid-level; comp a bit under target.",
+    "foundOn": "2026-08-06"
+  },
+  {
+    "id": "alarm-com-software-engineer-ii-job-boards-greenhouse-io-alarmcom-jobs-8622529002",
+    "company": "Alarm.com",
+    "role": "Software Engineer II",
+    "location": "Tysons, VA (in-office 4d/wk)",
+    "salary": "$88.3k–$122.55k",
+    "url": "https://job-boards.greenhouse.io/alarmcom/jobs/8622529002",
+    "source": "Greenhouse",
+    "note": "Exp: 2+ yrs — full-stack C#/.NET/SQL IoT protocols team; solid mid-level general SWE, though in-office VA and less AI-focused.",
+    "foundOn": "2026-08-06"
+  },
+  {
+    "id": "cadence-applied-ai-engineer-job-boards-greenhouse-io-solutions-jobs-4680768006",
+    "company": "Cadence",
+    "role": "Applied AI Engineer",
+    "location": "Remote (US)",
+    "salary": "$135k–$165k",
+    "url": "https://job-boards.greenhouse.io/solutions/jobs/4680768006",
+    "source": "Greenhouse",
+    "note": "Exp: 3+ yrs SWE / 2+ yrs AI (mild stretch) — clinical AI agents, RAG pipelines, LLM orchestration & evals; excellent agents/RAG fit, fully remote.",
+    "foundOn": "2026-08-06"
+  },
+  {
+    "id": "databricks-software-engineering-new-grad-2026-www-databricks-com-company-careers",
+    "company": "Databricks",
+    "role": "Software Engineering New Grad (2026)",
+    "location": "US (multiple offices)",
+    "salary": "",
+    "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-new-grad-2026-7640776002",
+    "source": "Company site",
+    "note": "Exp: new grad — backend/full-stack/infra teams, Python/Java/C++. Strong general SWE brand; data/AI platform exposure.",
+    "foundOn": "2026-08-07"
+  },
+  {
+    "id": "robinhood-software-engineer-backend-job-boards-greenhouse-io-robinhood-jobs-7263",
+    "company": "Robinhood",
+    "role": "Software Engineer, Backend",
+    "location": "Menlo Park, CA",
+    "salary": "$166k–$195k",
+    "url": "https://job-boards.greenhouse.io/robinhood/jobs/7263592",
+    "source": "Greenhouse",
+    "note": "Exp: 2+ yrs — Go/Python backend services at scale, Kafka. Solid mid-level fit; comp well above target.",
+    "foundOn": "2026-08-07"
+  },
+  {
+    "id": "brex-software-engineer-ii-backend-www-brex-com-careers-8606534002",
+    "company": "Brex",
+    "role": "Software Engineer II, Backend",
+    "location": "San Francisco, CA",
+    "salary": "$152k–$190k",
+    "url": "https://www.brex.com/careers/8606534002",
+    "source": "Company site",
+    "note": "Exp: ~2 yrs (SWE II) — financial infra, integrations, underwriting engine. General backend SWE at a strong company.",
+    "foundOn": "2026-08-07"
+  },
+  {
+    "id": "decagon-agent-software-engineer-new-grad-2026-start-jobs-ashbyhq-com-decagon-2a4",
+    "company": "Decagon",
+    "role": "Agent Software Engineer, New Grad (2026 Start)",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/decagon/2a435dd5-1212-42bb-ae5a-d7432902acd2",
+    "source": "Ashby",
+    "note": "Exp: new grad — AI-native conversational-agents company. Bullseye for agents interest.",
+    "foundOn": "2026-08-07"
+  },
+  {
+    "id": "sierra-software-engineer-agent-new-grad-jobs-ashbyhq-com-sierra-6a75b530-b7bb-44",
+    "company": "Sierra",
+    "role": "Software Engineer, Agent (New Grad)",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96",
+    "source": "Ashby",
+    "note": "Exp: new grad — building AI customer-experience agents. Direct match for LLM/agents focus.",
+    "foundOn": "2026-08-07"
+  },
+  {
+    "id": "spacex-full-stack-software-engineer-starlink-job-boards-greenhouse-io-spacex-job",
+    "company": "SpaceX",
+    "role": "Full Stack Software Engineer (Starlink)",
+    "location": "Palo Alto, CA",
+    "salary": "$135k–$185k",
+    "url": "https://job-boards.greenhouse.io/spacex/jobs/8501225002",
+    "source": "Greenhouse",
+    "note": "Exp: 1+ yr — TS/React/.NET Core micro-services on K8s. Junior-friendly full-stack; ITAR (US person required).",
+    "foundOn": "2026-08-07"
+  },
+  {
+    "id": "arize-ai-forward-deployed-ai-engineer-west-job-boards-greenhouse-io-arizeai-jobs",
+    "company": "Arize AI",
+    "role": "Forward Deployed AI Engineer, West",
+    "location": "Remote (SF Bay / PST)",
+    "salary": "$155k–$190k",
+    "url": "https://job-boards.greenhouse.io/arizeai/jobs/6030953004",
+    "source": "Greenhouse",
+    "note": "Exp: 2–5 yrs — GenAI observability/eval, RAG & agent apps, Python/TS. Strong AI/RAG fit; client-facing.",
+    "foundOn": "2026-08-07"
+  },
+  {
+    "id": "mercor-software-engineer-applied-ai-jobs-ashbyhq-com-mercor-cae88190-a2fd-4d04-9",
+    "company": "Mercor",
+    "role": "Software Engineer, Applied AI",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/mercor/cae88190-a2fd-4d04-9352-9f48fedb56a7",
+    "source": "Ashby",
+    "note": "Exp: not stated (applied-AI IC, likely early/mid) — AI data company building LLM-powered products. Good AI-native fit.",
+    "foundOn": "2026-08-07"
+  },
+  {
+    "id": "anthropic-forward-deployed-engineer-applied-ai-job-boards-greenhouse-io-anthropi",
+    "company": "Anthropic",
+    "role": "Forward Deployed Engineer, Applied AI",
+    "location": "SF / NYC / Boston / Seattle (hybrid)",
+    "salary": "$200k–$300k",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4985877008",
+    "source": "Greenhouse",
+    "note": "Exp: 4+ yrs (stretch) — customer-facing LLM/agent deployment w/ Claude, MCP, Python. Dream AI fit but senior-level.",
+    "foundOn": "2026-08-07"
   }
 ]
