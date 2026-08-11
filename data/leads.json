@@ -779,5 +779,126 @@
     "source": "Greenhouse",
     "note": "Exp: 4+ yrs (stretch) — customer-facing LLM/agent deployment w/ Claude, MCP, Python. Dream AI fit but senior-level.",
     "foundOn": "2026-08-07"
+  },
+  {
+    "id": "reddit-software-engineer-data-movement-platform-job-boards-greenhouse-io-reddit-",
+    "company": "Reddit",
+    "role": "Software Engineer - Data Movement Platform",
+    "location": "Remote (US)",
+    "salary": "$164.2k–$229.9k",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7997866",
+    "source": "Greenhouse",
+    "note": "Exp: 2+ yrs — data platform/infra (Python/Scala/Go, Spark/Flink/Airflow). Solid mid-level backend at big tech, US-remote.",
+    "foundOn": "2026-08-10"
+  },
+  {
+    "id": "gitlab-ai-engineer-job-boards-greenhouse-io-gitlab-jobs-8565469002",
+    "company": "GitLab",
+    "role": "AI Engineer",
+    "location": "Remote (US)",
+    "salary": "$108.4k–$129.6k",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8565469002",
+    "source": "Greenhouse",
+    "note": "Exp: no fixed years, welcomes varying levels — prompt eng, RAG vs context, agentic patterns, guardrails. Directly on his AI/LLM/agents preference; US-remote.",
+    "foundOn": "2026-08-10"
+  },
+  {
+    "id": "temporal-technologies-software-engineer-ii-ai-foundations-job-boards-greenhouse-",
+    "company": "Temporal Technologies",
+    "role": "Software Engineer II, AI Foundations",
+    "location": "Remote (US/Canada)",
+    "salary": "$160k–$200k",
+    "url": "https://job-boards.greenhouse.io/temporaltechnologies/jobs/5134414007",
+    "source": "Greenhouse",
+    "note": "Exp: 3+ yrs — agentic coding + AI SDKs (Pydantic AI, OpenAI Agents, ADK), Python/TS. Strong AI/agents fit, fully remote.",
+    "foundOn": "2026-08-10"
+  },
+  {
+    "id": "fireworks-ai-software-engineer-llm-infrastructure-job-boards-greenhouse-io-firew",
+    "company": "Fireworks AI",
+    "role": "Software Engineer, LLM Infrastructure",
+    "location": "San Mateo, CA",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/fireworksai/jobs/4056271009",
+    "source": "Greenhouse",
+    "note": "Exp: 3 yrs — LLM inference infra/ML systems at a fast-growing GenAI infra startup. Great AI fit if open to Bay Area.",
+    "foundOn": "2026-08-10"
+  },
+  {
+    "id": "gradial-applied-ai-engineer-job-boards-greenhouse-io-gradial-jobs-4338065009",
+    "company": "Gradial",
+    "role": "Applied AI Engineer",
+    "location": "Seattle, WA",
+    "salary": "$130k–$220k",
+    "url": "https://job-boards.greenhouse.io/gradial/jobs/4338065009",
+    "source": "Greenhouse",
+    "note": "Exp: 4+ yrs (stretch) — build agentic systems, LLM tooling, RL on agents. Dream AI/agents content but above his current level; 5-day in-office Seattle.",
+    "foundOn": "2026-08-10"
+  },
+  {
+    "id": "hightouch-software-engineer-ai-agents-job-boards-greenhouse-io-hightouch-jobs-55",
+    "company": "Hightouch",
+    "role": "Software Engineer, AI Agents",
+    "location": "Remote (North America)",
+    "salary": "$180k–$400k",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/5542602004",
+    "source": "Greenhouse",
+    "note": "Exp: senior role (stretch) but 'no prior LLM experience required' and hires on potential over years — production LLM pipelines & data agents. No coding interview. Ambitious AI/agents fit.",
+    "foundOn": "2026-08-11"
+  },
+  {
+    "id": "ramp-university-grad-2026-software-engineer-backend-jobs-ashbyhq-com-ramp-83075c",
+    "company": "Ramp",
+    "role": "University Grad 2026: Software Engineer, Backend",
+    "location": "New York, NY",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/ramp/83075cf0-9c22-4475-9c6b-e21923a96df8",
+    "source": "Ashby",
+    "note": "Exp: new grad (2026 university grad) — Backend SWE at a top fintech that builds heavily with AI (Ramp powers products on Vercel AI SDK). Strong early-career pick.",
+    "foundOn": "2026-08-11"
+  },
+  {
+    "id": "doppel-forward-deployed-engineer-jobs-ashbyhq-com-doppel-bae7bcc9-afff-4f50-91e4",
+    "company": "Doppel",
+    "role": "Forward Deployed Engineer",
+    "location": "Remote (US)",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/doppel/bae7bcc9-afff-4f50-91e4-2c8d3580cd23",
+    "source": "Ashby",
+    "note": "Exp: not listed as years (product-minded SWE, Python preferred; LLM/AI app dev a strong plus) — Build AI-powered automations & agents on an AI-native security platform (a16z/Bessemer-backed). Good AI/agents fit, mid-level.",
+    "foundOn": "2026-08-11"
+  },
+  {
+    "id": "openrouter-applied-ai-engineer-jobs-ashbyhq-com-openrouter-407f71b5-4b1f-4666-91",
+    "company": "OpenRouter",
+    "role": "Applied AI Engineer",
+    "location": "Remote",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/openrouter/407f71b5-4b1f-4666-91bd-394f3c26f19d",
+    "source": "Ashby",
+    "note": "Exp: not listed on page — Build internal agentic tooling at the leading LLM routing/inference marketplace. Direct LLM/agents fit; verify seniority when applying.",
+    "foundOn": "2026-08-11"
+  },
+  {
+    "id": "hatch-ai-engineer-ai-agents-jobs-ashbyhq-com-hatch-302d3f5d-2d99-4962-8ce3-4480c",
+    "company": "Hatch",
+    "role": "AI Engineer - AI Agents",
+    "location": "Remote (US)",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/hatch/302d3f5d-2d99-4962-8ce3-4480cd4330d5",
+    "source": "Ashby",
+    "note": "Exp: not listed on page — Small, fast team building AI agents with emphasis on speed and ownership. Bullseye AI/agents fit; confirm years-of-experience at screen.",
+    "foundOn": "2026-08-11"
+  },
+  {
+    "id": "vercel-software-engineer-ai-sdk-vercel-com-careers-software-engineer-ai-sdk-5474",
+    "company": "Vercel",
+    "role": "Software Engineer, AI SDK",
+    "location": "New York, NY / San Francisco (remote if outside commute)",
+    "salary": "$196k–$294k",
+    "url": "https://vercel.com/careers/software-engineer-ai-sdk-5474915004",
+    "source": "Company site",
+    "note": "Exp: 5+ yrs (stretch) — Build the AI SDK, the leading TS toolkit for AI-native apps & agents (JS/TS). Senior requirement but excellent AI/agents domain; strong comp.",
+    "foundOn": "2026-08-11"
   }
 ]
