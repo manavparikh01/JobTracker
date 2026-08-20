@@ -1329,5 +1329,49 @@
     "source": "Greenhouse",
     "note": "Exp: 6+ yrs (stretch) — LLM APIs, RAG, agentic workflows, Python/TS. Great AI content but senior-level requirement.",
     "foundOn": "2026-08-19"
+  },
+  {
+    "id": "doordash-software-engineer-i-entry-level-grad-fall-2025-summer-2026-job-boards-g",
+    "company": "DoorDash",
+    "role": "Software Engineer I, Entry-Level (Grad Fall 2025–Summer 2026)",
+    "location": "New York, NY / San Francisco, CA / Los Angeles, CA / Seattle, WA / Sunnyvale, CA",
+    "salary": "$107,400–$158,000",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610",
+    "source": "Greenhouse",
+    "note": "Exp: new grad / ≤2 yrs (2 internships or equiv) — product engineering, Python/Java, SQL, scalable backend. Strong entry-level fit at a big tech name.",
+    "foundOn": "2026-08-20"
+  },
+  {
+    "id": "distyl-ai-ai-engineer-new-graduate-jobs-ashbyhq-com-distyl-a7674245-72ee-403e-86",
+    "company": "Distyl AI",
+    "role": "AI Engineer (New Graduate)",
+    "location": "New York, NY (hybrid)",
+    "salary": "$130,000–$150,000",
+    "url": "https://jobs.ashbyhq.com/Distyl/a7674245-72ee-403e-8653-6edfca8a89ce",
+    "source": "Ashby",
+    "note": "Exp: new grad — GenAI apps under senior guidance: prompt design, agent logic, RAG, model eval. Near-perfect AI/RAG/agents match, junior level.",
+    "foundOn": "2026-08-20"
+  },
+  {
+    "id": "workos-applied-ai-engineer-jobs-ashbyhq-com-workos-5e650527-d8dd-413a-9cfb-d7d68",
+    "company": "WorkOS",
+    "role": "Applied AI Engineer",
+    "location": "Remote (US)",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/workos/5e650527-d8dd-413a-9cfb-d7d68143274b",
+    "source": "Ashby",
+    "note": "Exp: ~1–3 yrs (one production AI iteration w/ real users) — LLM APIs, embeddings, retrieval/RAG, tool-calling, MCP. Well-funded ($2B) dev-tools co. Great AI fit, not senior.",
+    "foundOn": "2026-08-20"
+  },
+  {
+    "id": "further-graduate-leadership-program-ai-data-engineer-job-boards-greenhouse-io-fu",
+    "company": "Further",
+    "role": "Graduate Leadership Program | AI/Data Engineer",
+    "location": "Cleveland, OH / Atlanta, GA / Dallas, TX (hybrid)",
+    "salary": "$100,000+ (per app salary bands)",
+    "url": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8384023002",
+    "source": "Greenhouse",
+    "note": "Exp: entry level (2025–2026 grad) — data pipelines + production AI: RAG, LLM orchestration, GCP. Junior AI/data fit; note no visa sponsorship.",
+    "foundOn": "2026-08-20"
   }
 ]
