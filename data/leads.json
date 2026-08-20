@@ -1142,5 +1142,192 @@
     "source": "Greenhouse",
     "note": "Exp: 5+ yrs (stretch) — genAI inference infra, build LLM-powered apps/PoCs. Great AI-native company if he wants a reach application.",
     "foundOn": "2026-08-14"
+  },
+  {
+    "id": "abridge-software-engineer-early-career-jobs-ashbyhq-com-abridge-7d6ae2be-cd53-46",
+    "company": "Abridge",
+    "role": "Software Engineer, Early Career",
+    "location": "San Francisco, CA / New York, NY",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace",
+    "source": "Ashby",
+    "note": "Exp: early career (0-2 yrs) — LLM-powered medical documentation platform. Applied AI product work, well-funded health AI.",
+    "foundOn": "2026-08-17"
+  },
+  {
+    "id": "unitedhealth-group-associate-ai-ml-engineer-rag-llm-careers-unitedhealthgroup-co",
+    "company": "UnitedHealth Group",
+    "role": "Associate AI/ML Engineer (RAG/LLM)",
+    "location": "Basking Ridge, NJ",
+    "salary": "",
+    "url": "https://careers.unitedhealthgroup.com/job/basking-ridge/associate-ai-ml-engineer-rag-llm/34088/97202374400",
+    "source": "Company site",
+    "note": "Exp: associate/junior — Explicitly RAG/LLM work, and it's in NJ (close to his current NJDEP base). Near-perfect fit on both interest and geography.",
+    "foundOn": "2026-08-17"
+  },
+  {
+    "id": "databricks-software-engineer-new-grad-2026-www-databricks-com-company-careers-un",
+    "company": "Databricks",
+    "role": "Software Engineer, New Grad (2026)",
+    "location": "San Francisco, CA (multiple US offices)",
+    "salary": "$145k–$155k",
+    "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-new-grad-2026-7640776002",
+    "source": "Company site",
+    "note": "Exp: new grad (grad Fall 2025–Summer 2026) — Data + AI platform infra. Strong comp for a new grad, big-tech-adjacent brand.",
+    "foundOn": "2026-08-17"
+  },
+  {
+    "id": "stripe-software-engineer-new-grad-stripe-com-careers-listing-software-engineer-n",
+    "company": "Stripe",
+    "role": "Software Engineer, New Grad",
+    "location": "San Francisco / Seattle / New York",
+    "salary": "",
+    "url": "https://stripe.com/careers/listing/software-engineer-new-grad-developer-end-user-experience-platform/7991718",
+    "source": "Company site",
+    "note": "Exp: new grad (<=18 months professional exp) — General SWE at a top fintech. Java/Ruby/JS/Scala/Go; solid backend foundation role.",
+    "foundOn": "2026-08-17"
+  },
+  {
+    "id": "datadog-software-engineer-early-career-builtin-com-job-software-engineer-new-gra",
+    "company": "Datadog",
+    "role": "Software Engineer, Early Career",
+    "location": "Boston, MA",
+    "salary": "$123k–$155k",
+    "url": "https://builtin.com/job/software-engineer-new-grad/3175799",
+    "source": "Built In",
+    "note": "Exp: early career — Backend/observability platform. Good comp, strong engineering culture, general SWE fit.",
+    "foundOn": "2026-08-17"
+  },
+  {
+    "id": "baseten-software-engineer-ai-enablement-jobs-ashbyhq-com-baseten-b88a68b7-d2bc-4",
+    "company": "Baseten",
+    "role": "Software Engineer, AI Enablement",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/baseten/b88a68b7-d2bc-4a30-a79a-3ef292ad7c26",
+    "source": "Ashby",
+    "note": "Exp: not stated (likely mid, ~2-4 yrs) — AI model-inference infra powering Cursor/Notion/Writer. AI-native; verify years on the listing.",
+    "foundOn": "2026-08-17"
+  },
+  {
+    "id": "wonderschool-early-career-software-engineer-applied-ai-job-boards-greenhouse-io-",
+    "company": "Wonderschool",
+    "role": "Early Career Software Engineer – Applied AI",
+    "location": "Remote (US)",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6359139003",
+    "source": "Greenhouse",
+    "note": "Exp: early career (0-2 yrs) — Applied AI team; directly matches AI/LLM interest at junior level.",
+    "foundOn": "2026-08-18"
+  },
+  {
+    "id": "anduril-industries-early-career-software-engineer-warfighter-systems-job-boards-",
+    "company": "Anduril Industries",
+    "role": "Early Career Software Engineer, Warfighter Systems",
+    "location": "Costa Mesa, CA",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5050193007",
+    "source": "Greenhouse",
+    "note": "Exp: 0-2 yrs — full-stack product dev; junior-friendly.",
+    "foundOn": "2026-08-18"
+  },
+  {
+    "id": "benchling-software-engineer-new-grad-2026-job-boards-greenhouse-io-benchling-job",
+    "company": "Benchling",
+    "role": "Software Engineer, New Grad (2026)",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/benchling/jobs/7386982",
+    "source": "Greenhouse",
+    "note": "Exp: new grad — real ownership from day one on platform systems; solid general SWE.",
+    "foundOn": "2026-08-18"
+  },
+  {
+    "id": "sharebite-ai-engineer-job-boards-greenhouse-io-sharebite-jobs-5848230004",
+    "company": "Sharebite",
+    "role": "AI Engineer",
+    "location": "New York, NY",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/sharebite/jobs/5848230004",
+    "source": "Greenhouse",
+    "note": "Exp: mid-level — LLM APIs, vector DBs, RAG pipelines & agent frameworks; direct RAG/agents fit.",
+    "foundOn": "2026-08-18"
+  },
+  {
+    "id": "hightouch-software-engineer-ai-productivity-job-boards-greenhouse-io-hightouch-j",
+    "company": "Hightouch",
+    "role": "Software Engineer - AI Productivity",
+    "location": "Remote (US)",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/5809895004",
+    "source": "Greenhouse",
+    "note": "Exp: mid-level — AI productivity/product work; general SWE with AI angle.",
+    "foundOn": "2026-08-18"
+  },
+  {
+    "id": "affirm-software-engineer-ii-backend-developer-environments-job-boards-greenhouse",
+    "company": "Affirm",
+    "role": "Software Engineer II, Backend (Developer Environments)",
+    "location": "Remote (US)",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/6661800003",
+    "source": "Greenhouse",
+    "note": "Exp: 1.5+ yrs — backend at a remote-first fintech; solid mid-level general SWE.",
+    "foundOn": "2026-08-18"
+  },
+  {
+    "id": "ezcater-senior-software-engineer-ai-native-platform-remote-job-boards-greenhouse",
+    "company": "ezCater",
+    "role": "Senior Software Engineer, AI-Native Platform (Remote)",
+    "location": "Remote (US)",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5185605007",
+    "source": "Greenhouse",
+    "note": "Exp: 5+ yrs (stretch) — AI-native platform team; great AI fit but senior, aspirational reach.",
+    "foundOn": "2026-08-18"
+  },
+  {
+    "id": "quora-software-engineer-machine-learning-platform-new-grad-jobs-ashbyhq-com-quor",
+    "company": "Quora",
+    "role": "Software Engineer, Machine Learning Platform, New Grad",
+    "location": "Remote (US)",
+    "salary": "$97,600–$139,000",
+    "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db",
+    "source": "Ashby",
+    "note": "Exp: new grad (2025/2026 grad) — No ML infra experience required; ML platform/GPU serving for LLMs, dedicated mentor. Strong AI/ML fit, fully remote.",
+    "foundOn": "2026-08-19"
+  },
+  {
+    "id": "xapo-bank-software-engineer-job-boards-greenhouse-io-xapo61-jobs-7572065003",
+    "company": "Xapo Bank",
+    "role": "Software Engineer",
+    "location": "Remote (work from anywhere)",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/xapo61/jobs/7572065003",
+    "source": "Greenhouse",
+    "note": "Exp: junior/mid — Backend Python microservices, mentored by senior engineers, growth-mindset hire. General SWE fit, fully remote.",
+    "foundOn": "2026-08-19"
+  },
+  {
+    "id": "zapier-engineer-applied-ai-jobs-ashbyhq-com-zapier-38434b88-086c-424b-8d18-8d006",
+    "company": "Zapier",
+    "role": "Engineer, Applied AI",
+    "location": "Remote (US)",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/zapier/38434b88-086c-424b-8d18-8d006e0b71b8",
+    "source": "Ashby",
+    "note": "Exp: 4+ yrs (stretch) — AI Platform team: LLM proxy, LLMOps/MLOps tooling, Python/TS. Strong LLM fit if experience allows.",
+    "foundOn": "2026-08-19"
+  },
+  {
+    "id": "splitero-applied-ai-engineer-job-boards-greenhouse-io-splitero-jobs-5162723008",
+    "company": "Splitero",
+    "role": "Applied AI Engineer",
+    "location": "Remote",
+    "salary": "$135,000–$175,000",
+    "url": "https://job-boards.greenhouse.io/splitero/jobs/5162723008",
+    "source": "Greenhouse",
+    "note": "Exp: 6+ yrs (stretch) — LLM APIs, RAG, agentic workflows, Python/TS. Great AI content but senior-level requirement.",
+    "foundOn": "2026-08-19"
   }
 ]
