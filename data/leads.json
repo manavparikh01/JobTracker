@@ -1373,5 +1373,159 @@
     "source": "Greenhouse",
     "note": "Exp: entry level (2025–2026 grad) — data pipelines + production AI: RAG, LLM orchestration, GCP. Junior AI/data fit; note no visa sponsorship.",
     "foundOn": "2026-08-20"
+  },
+  {
+    "id": "palantir-technologies-software-engineer-new-grad-production-infrastructure-jobs-",
+    "company": "Palantir Technologies",
+    "role": "Software Engineer, New Grad - Production Infrastructure",
+    "location": "New York, NY (Hybrid)",
+    "salary": "$145k–$155k",
+    "url": "https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a",
+    "source": "Lever",
+    "note": "Exp: new grad — Kubernetes/Apollo infra, AI + Java/Go/TypeScript; mentored, own product lifecycle. Strong junior big-tech fit.",
+    "foundOn": "2026-08-23"
+  },
+  {
+    "id": "underdog-sports-associate-software-engineer-2026-new-grad-job-boards-greenhouse-",
+    "company": "Underdog Sports",
+    "role": "Associate Software Engineer, 2026 New Grad",
+    "location": "Remote (US)",
+    "salary": "$100k–$130k",
+    "url": "https://job-boards.greenhouse.io/underdogfantasy/jobs/4647374005",
+    "source": "Greenhouse",
+    "note": "Exp: new grad (Spring 2026 grad, Summer 2026 start) — full-stack, user-facing features at $1.3B sports startup. Remote, in comp range.",
+    "foundOn": "2026-08-23"
+  },
+  {
+    "id": "brain-co-early-career-machine-learning-engineer-applied-ai-jobs-ashbyhq-com-brai",
+    "company": "Brain Co.",
+    "role": "Early Career Machine Learning Engineer, Applied AI",
+    "location": "New York, NY",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/brainco/bb6e555b-8bb1-4cd7-9813-4f82a5ebe839",
+    "source": "Ashby",
+    "note": "Exp: 0–2 yrs — deploy LLMs/agents/RAG to production for regulated institutions; team ex-Palantir/Google/Meta. Top AI/agents match.",
+    "foundOn": "2026-08-23"
+  },
+  {
+    "id": "glean-software-engineer-university-grad-backend-product-ml-job-boards-greenhouse",
+    "company": "Glean",
+    "role": "Software Engineer, University Grad (Backend / Product / ML)",
+    "location": "SF Bay Area (Hybrid)",
+    "salary": "$140k–$150k",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4592324005",
+    "source": "Greenhouse",
+    "note": "Exp: new grad — Work AI platform: enterprise search, AI assistant, agentic capabilities; ML/NLP welcome. Excellent AI-native junior fit.",
+    "foundOn": "2026-08-23"
+  },
+  {
+    "id": "fireworks-ai-software-engineer-cloud-infrastructure-early-career-job-boards-gree",
+    "company": "Fireworks AI",
+    "role": "Software Engineer, Cloud Infrastructure [Early Career]",
+    "location": "New York, NY / Redwood City, CA",
+    "salary": "$140k–$150k",
+    "url": "https://job-boards.greenhouse.io/fireworksai/jobs/4036755009",
+    "source": "Greenhouse",
+    "note": "Exp: new grad (2+ yrs internships preferred) — GenAI inference infra, model serving, distributed systems; Python/C++. Backed by Sequoia/Benchmark.",
+    "foundOn": "2026-08-23"
+  },
+  {
+    "id": "affirm-software-engineer-i-backend-servicing-platforms-job-boards-greenhouse-io-",
+    "company": "Affirm",
+    "role": "Software Engineer I, Backend (Servicing Platforms)",
+    "location": "Remote (US)",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7724917003",
+    "source": "Greenhouse",
+    "note": "Exp: entry (internship/early experience) — backend systems at scale, Python/Kotlin/Java. Remote-first fintech, general SWE fit.",
+    "foundOn": "2026-08-23"
+  },
+  {
+    "id": "sharebite-ai-engineer-starts-as-full-stack-grows-into-ai-job-boards-greenhouse-i",
+    "company": "Sharebite",
+    "role": "AI Engineer (starts as Full-Stack, grows into AI)",
+    "location": "Remote",
+    "salary": "$110k–$130k",
+    "url": "https://job-boards.greenhouse.io/sharebite/jobs/5848230004",
+    "source": "Greenhouse",
+    "note": "Exp: 5+ yrs full-stack + 1–2 yrs LLM (stretch) — LangChain/RAG/agents in production. Great AI/agents match but senior req; comp in range.",
+    "foundOn": "2026-08-23"
+  },
+  {
+    "id": "smartsheet-software-engineer-i-remote-eligible-job-boards-greenhouse-io-smartshe",
+    "company": "Smartsheet",
+    "role": "Software Engineer I (Remote Eligible)",
+    "location": "Remote (US)",
+    "salary": "$107.5k–$147.5k",
+    "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8070067",
+    "source": "Greenhouse",
+    "note": "Exp: 1+ yrs — fullstack + distributed systems, AI-driven dev workflows. Good early-mid match, remote.",
+    "foundOn": "2026-08-24"
+  },
+  {
+    "id": "axiomatic-ai-applied-ai-engineer-job-boards-greenhouse-io-axiomaticai-jobs-47203",
+    "company": "Axiomatic AI",
+    "role": "Applied AI Engineer",
+    "location": "Boston, US / Remote",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/axiomaticai/jobs/4720346101",
+    "source": "Greenhouse",
+    "note": "Exp: 3+ yrs — LLM/agent systems to production, Python, RAG. Upper edge of junior/mid; strong AI fit.",
+    "foundOn": "2026-08-24"
+  },
+  {
+    "id": "notion-software-engineer-early-career-ai-jobs-ashbyhq-com-notion-85947779-6b87-4",
+    "company": "Notion",
+    "role": "Software Engineer, Early Career (AI)",
+    "location": "San Francisco / New York",
+    "salary": "$130k–$150k",
+    "url": "https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28",
+    "source": "Ashby",
+    "note": "Exp: <2 yrs (0-2 YOE) — AI product/eval engineering with LLMs, embeddings, retrieval; strong AI/RAG fit, comp confirmed.",
+    "foundOn": "2026-08-25"
+  },
+  {
+    "id": "weride-ai-general-software-engineer-new-grads-2026-jobs-lever-co-weride-94562b95",
+    "company": "WeRide.ai",
+    "role": "General Software Engineer, New Grads 2026",
+    "location": "San Jose, CA",
+    "salary": "",
+    "url": "https://jobs.lever.co/weride/94562b95-f574-4a60-bfbf-0cafb5c8ea3d/apply",
+    "source": "Lever",
+    "note": "Exp: new grad — autonomous driving / AI company, general SWE.",
+    "foundOn": "2026-08-25"
+  },
+  {
+    "id": "koah-software-engineer-early-career-jobs-ashbyhq-com-koahlabs-197c931d-3cda-44b3",
+    "company": "Koah",
+    "role": "Software Engineer, Early Career",
+    "location": "San Francisco",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808",
+    "source": "Ashby",
+    "note": "Exp: early career (0-2 yrs) — monetization for AI-native apps; early-stage startup, broad SWE ownership.",
+    "foundOn": "2026-08-25"
+  },
+  {
+    "id": "auctor-software-engineer-applied-ai-jobs-ashbyhq-com-auctor-ca5b0c44-cafb-48ad-9",
+    "company": "Auctor",
+    "role": "Software Engineer, Applied AI",
+    "location": "San Francisco",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/auctor/ca5b0c44-cafb-48ad-99fa-84aa3cfc5179",
+    "source": "Ashby",
+    "note": "Exp: not senior — build/improve core systems behind AI agents in production; direct agents/LLM fit.",
+    "foundOn": "2026-08-25"
+  },
+  {
+    "id": "writer-ai-engineer-jobs-ashbyhq-com-writer-4a02c160-bc1e-4a1b-96a7-d5194dfb834a",
+    "company": "Writer",
+    "role": "AI Engineer",
+    "location": "San Francisco / Remote (US)",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/writer/4a02c160-bc1e-4a1b-96a7-d5194dfb834a",
+    "source": "Ashby",
+    "note": "Exp: experienced AI engineer (stretch) — generative AI models/algorithms; great AI/LLM match but likely senior-leaning.",
+    "foundOn": "2026-08-25"
   }
 ]
