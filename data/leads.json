@@ -1527,5 +1527,82 @@
     "source": "Ashby",
     "note": "Exp: experienced AI engineer (stretch) — generative AI models/algorithms; great AI/LLM match but likely senior-leaning.",
     "foundOn": "2026-08-25"
+  },
+  {
+    "id": "applied-intuition-software-engineer-new-grad-dec-2026-jobs-ashbyhq-com-applied-a",
+    "company": "Applied Intuition",
+    "role": "Software Engineer - New Grad (Dec 2026)",
+    "location": "Mountain View, CA",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694",
+    "source": "Ashby",
+    "note": "Exp: new grad — Physical-AI infra company ($15B val); full-stack across the stack, strong SWE fundamentals.",
+    "foundOn": "2026-08-26"
+  },
+  {
+    "id": "benchling-software-engineer-new-grad-2026-jobs-ashbyhq-com-benchling-b3c9b312-6e",
+    "company": "Benchling",
+    "role": "Software Engineer, New Grad (2026)",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/benchling/b3c9b312-6e2b-4dbc-9b15-0b0310d75a7f/application",
+    "source": "Ashby",
+    "note": "Exp: new grad — AI platform for biotech R&D; solid general SWE with AI exposure.",
+    "foundOn": "2026-08-26"
+  },
+  {
+    "id": "instabase-full-stack-software-engineer-new-grad-job-boards-greenhouse-io-instaba",
+    "company": "Instabase",
+    "role": "Full-stack Software Engineer (New Grad)",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/instabase/jobs/8548929002",
+    "source": "Greenhouse",
+    "note": "Exp: new grad (grad May–Jun 2026) — Document-AI/LLM platform; full-stack, fits RAG/doc-intelligence interest.",
+    "foundOn": "2026-08-26"
+  },
+  {
+    "id": "quora-poe-ai-engineer-new-grad-2025-2026-jobs-ashbyhq-com-quora-6df58d3e-855a-42",
+    "company": "Quora (Poe)",
+    "role": "AI Engineer, New Grad 2025-2026",
+    "location": "Remote (US)",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/quora/6df58d3e-855a-423e-99fd-a56ac8824b34",
+    "source": "Ashby",
+    "note": "Exp: new grad — Remote AI Engineer on Poe (LLM product); direct AI/LLM fit and US-remote.",
+    "foundOn": "2026-08-26"
+  },
+  {
+    "id": "quora-software-engineer-ml-platform-new-grad-jobs-ashbyhq-com-quora-452afc2e-0c7",
+    "company": "Quora",
+    "role": "Software Engineer, ML Platform, New Grad",
+    "location": "Remote (US)",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db",
+    "source": "Ashby",
+    "note": "Exp: new grad — Remote ML Platform SWE; ML infra experience, US-remote friendly.",
+    "foundOn": "2026-08-26"
+  },
+  {
+    "id": "compa-software-engineer-new-grad-jobs-ashbyhq-com-compa-ce7b36cc-3517-46c0-98fe-",
+    "company": "Compa",
+    "role": "Software Engineer, New Grad",
+    "location": "Remote (US)",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/compa/ce7b36cc-3517-46c0-98fe-99924ab400da",
+    "source": "Ashby",
+    "note": "Exp: new grad — VC-backed AI comp-data startup; general full-stack SWE.",
+    "foundOn": "2026-08-26"
+  },
+  {
+    "id": "assembled-software-engineer-ai-agents-jobs-ashbyhq-com-assembledhq-bac5ab0e-8909",
+    "company": "Assembled",
+    "role": "Software Engineer - AI Agents",
+    "location": "New York, NY",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/assembledhq/bac5ab0e-8909-4b89-94c4-f690414115ea",
+    "source": "Ashby",
+    "note": "Exp: mid-level, ~2-4 yrs (slight stretch) — Building AI agents that resolve support cases; strong agents fit, NYC.",
+    "foundOn": "2026-08-26"
   }
 ]
