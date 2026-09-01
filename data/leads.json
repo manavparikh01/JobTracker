@@ -1604,5 +1604,203 @@
     "source": "Ashby",
     "note": "Exp: mid-level, ~2-4 yrs (slight stretch) — Building AI agents that resolve support cases; strong agents fit, NYC.",
     "foundOn": "2026-08-26"
+  },
+  {
+    "id": "instalily-ai-software-engineer-i-general-job-boards-greenhouse-io-instalilyai-jo",
+    "company": "INSTALILY.AI",
+    "role": "Software Engineer I, General",
+    "location": "New York, NY",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/instalilyai/jobs/4271757009",
+    "source": "Greenhouse",
+    "note": "Exp: entry-level — needs backend fluency (Python/TS) plus hands-on LLM experience; AI-native startup, direct match to AI/agents interest.",
+    "foundOn": "2026-08-27"
+  },
+  {
+    "id": "flex-software-engineer-i-fullstack-risk-engineering-job-boards-greenhouse-io-fle",
+    "company": "Flex",
+    "role": "Software Engineer I, Fullstack, Risk Engineering",
+    "location": "Remote (US)",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/flex/jobs/4649208005",
+    "source": "Greenhouse",
+    "note": "Exp: new grad — fullstack services/APIs for risk, fraud, credit; good general SWE fit.",
+    "foundOn": "2026-08-27"
+  },
+  {
+    "id": "twitch-software-engineer-i-discovery-job-boards-greenhouse-io-twitch-jobs-862357",
+    "company": "Twitch",
+    "role": "Software Engineer I, Discovery",
+    "location": "United States",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8623578002",
+    "source": "Greenhouse",
+    "note": "Exp: entry-level — recommendation/discovery surface, ML-adjacent product engineering.",
+    "foundOn": "2026-08-27"
+  },
+  {
+    "id": "latitude-ai-software-engineer-i-job-boards-greenhouse-io-latitude-jobs-7611239",
+    "company": "Latitude AI",
+    "role": "Software Engineer I",
+    "location": "United States",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/latitude/jobs/7611239",
+    "source": "Greenhouse",
+    "note": "Exp: entry-level — AV/AI company; entry SWE role, general backend fit.",
+    "foundOn": "2026-08-27"
+  },
+  {
+    "id": "northslope-technologies-forward-deployed-software-engineer-new-grad-jobs-ashbyhq",
+    "company": "Northslope Technologies",
+    "role": "Forward Deployed Software Engineer, New Grad",
+    "location": "United States",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/northslope-technologies/7ccd126f-b127-4526-87f1-57408919c30a",
+    "source": "Ashby",
+    "note": "Exp: new grad (2025/2026) — customer-embedded build role; forward-deployed exposure early in career.",
+    "foundOn": "2026-08-27"
+  },
+  {
+    "id": "eulerity-associate-backend-engineer-job-boards-greenhouse-io-eulerity-jobs-46956",
+    "company": "Eulerity",
+    "role": "Associate Backend Engineer",
+    "location": "New York, NY",
+    "salary": "$95k–$115k",
+    "url": "https://job-boards.greenhouse.io/eulerity/jobs/4695682006",
+    "source": "Greenhouse",
+    "note": "Exp: 1–3 yrs — backend services with AI as a core part of the workflow; comp slightly under target but solid mid fit.",
+    "foundOn": "2026-08-27"
+  },
+  {
+    "id": "babel-street-generative-agentic-ai-engineer-job-boards-greenhouse-io-babelstreet",
+    "company": "Babel Street",
+    "role": "Generative & Agentic AI Engineer",
+    "location": "United States",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/babelstreet/jobs/7531339",
+    "source": "Greenhouse",
+    "note": "Exp: mid (supporting/assisting role) — LLM systems, RAG pipelines, agent-based workflows; direct AI/RAG/agents match.",
+    "foundOn": "2026-08-27"
+  },
+  {
+    "id": "aspenview-technology-partners-agentic-ai-engineer-rag-architecture-llm-systems-j",
+    "company": "Aspenview Technology Partners",
+    "role": "Agentic AI Engineer - RAG Architecture, LLM Systems",
+    "location": "United States",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/aspenviewtech/jobs/4355206009",
+    "source": "Greenhouse",
+    "note": "Exp: 4+ yrs, 2+ on LLM apps (stretch) — production RAG pipelines, agentic workflows; ideal on interest, above current level.",
+    "foundOn": "2026-08-27"
+  },
+  {
+    "id": "spring-health-software-engineer-ii-ai-servicing-platform-job-boards-greenhouse-i",
+    "company": "Spring Health",
+    "role": "Software Engineer II, AI Servicing Platform",
+    "location": "San Francisco (hybrid)",
+    "salary": "$138,000–$161,000",
+    "url": "https://job-boards.greenhouse.io/springhealth66/jobs/4684960005",
+    "source": "Greenhouse",
+    "note": "Exp: SE II (mid, ~2–4 yrs) — AI platform team; direct AI/LLM fit with solid comp.",
+    "foundOn": "2026-08-30"
+  },
+  {
+    "id": "smartsheet-software-engineer-ii-full-stack-job-boards-greenhouse-io-smartsheet-j",
+    "company": "Smartsheet",
+    "role": "Software Engineer II, Full Stack",
+    "location": "Remote (US) eligible",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8097667",
+    "source": "Greenhouse",
+    "note": "Exp: SE II (mid, ~2–4 yrs) — full-stack, distributed-systems work at an established SaaS.",
+    "foundOn": "2026-08-30"
+  },
+  {
+    "id": "stubhub-software-engineer-ii-web-foundations-job-boards-greenhouse-io-stubhubinc",
+    "company": "StubHub",
+    "role": "Software Engineer II, Web Foundations",
+    "location": "New York / Century City (hybrid)",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/stubhubinc/jobs/4866281101",
+    "source": "Greenhouse",
+    "note": "Exp: SE II (mid, ~2–4 yrs) — full-stack platform/shared-services work.",
+    "foundOn": "2026-08-30"
+  },
+  {
+    "id": "twilio-software-engineer-l2-cdp-job-boards-greenhouse-io-twilio-jobs-7602727",
+    "company": "Twilio",
+    "role": "Software Engineer, L2 (CDP)",
+    "location": "Remote (US)",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7602727",
+    "source": "Greenhouse",
+    "note": "Exp: L2 (mid, ~2–4 yrs) — customer data platform; general backend SWE at a well-known company.",
+    "foundOn": "2026-08-30"
+  },
+  {
+    "id": "pagaya-applied-ai-engineer-office-of-the-ceo-job-boards-greenhouse-io-pagaya-job",
+    "company": "Pagaya",
+    "role": "Applied AI Engineer, Office of the CEO",
+    "location": "New York, NY (4d/wk office)",
+    "salary": "$140,000–$170,000",
+    "url": "https://job-boards.greenhouse.io/pagaya/jobs/7855240003",
+    "source": "Greenhouse",
+    "note": "Exp: 4+ yrs (mid/stretch) — build LLM apps, agentic workflows, RAG on financial data; Python/SQL. Good AI fit but above target experience.",
+    "foundOn": "2026-08-31"
+  },
+  {
+    "id": "twilio-machine-learning-engineer-job-boards-greenhouse-io-twilio-jobs-7702644",
+    "company": "Twilio",
+    "role": "Machine Learning Engineer",
+    "location": "Remote (US, not NY/CA/CT/NJ/PA/WA)",
+    "salary": "$155,520–$228,700",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7702644",
+    "source": "Greenhouse",
+    "note": "Exp: 5+ yrs (stretch) — production ML/MLOps, LLM/RAG/agent frameworks (LangChain/LangGraph). Great AI content but senior; note NY not eligible.",
+    "foundOn": "2026-08-31"
+  },
+  {
+    "id": "hightouch-software-engineer-customer-studio-backend-job-boards-greenhouse-io-hig",
+    "company": "Hightouch",
+    "role": "Software Engineer, Customer Studio Backend",
+    "location": "Remote (North America)",
+    "salary": "$180,000–$400,000",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/5983811004",
+    "source": "Greenhouse",
+    "note": "Exp: senior (stretch) — backend/distributed systems for agentic marketing CDP; no coding interviews, 'impact over years'. Stretch on seniority.",
+    "foundOn": "2026-08-31"
+  },
+  {
+    "id": "notion-software-engineer-new-grad-ai-jobs-ashbyhq-com-notion-e32799d2-8ef8-4803-",
+    "company": "Notion",
+    "role": "Software Engineer, New Grad (AI)",
+    "location": "San Francisco, CA / New York, NY",
+    "salary": "$126k–$146k",
+    "url": "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816",
+    "source": "Ashby",
+    "note": "Exp: new grad (internship experience expected) — build AI features in the Notion workspace (TypeScript/Node/Python). AI product work at a top company.",
+    "foundOn": "2026-09-01"
+  },
+  {
+    "id": "netic-software-engineer-agent-platform-new-grad-2026-2027-jobs-ashbyhq-com-netic",
+    "company": "Netic",
+    "role": "Software Engineer (Agent Platform), New Grad 2026-2027",
+    "location": "San Francisco, CA",
+    "salary": "$120k–$160k",
+    "url": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f",
+    "source": "Ashby",
+    "note": "Exp: new grad — full-stack on an AI agent platform for essential industries; dedicated mentor. Direct agents/LLM match, VC-backed startup.",
+    "foundOn": "2026-09-01"
+  },
+  {
+    "id": "interlaced-lyra-technology-group-forward-deployment-ai-engineer-job-boards-green",
+    "company": "Interlaced (Lyra Technology Group)",
+    "role": "Forward Deployment AI Engineer",
+    "location": "San Diego, CA (hybrid)",
+    "salary": "$120k–$150k",
+    "url": "https://job-boards.greenhouse.io/lyratechgroup/jobs/5229710008",
+    "source": "Greenhouse",
+    "note": "Exp: 2+ yrs — build/deploy production AI agents & RAG workflows (LangChain/LangGraph, LLM APIs) for SMB clients. Excellent agents/RAG match, client-facing.",
+    "foundOn": "2026-09-01"
   }
 ]
