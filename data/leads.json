@@ -2429,5 +2429,71 @@
     "source": "Ashby",
     "note": "Exp: new grad — build services/platform/features end-to-end at health-tech (medical billing/RCM). Multiple big-city offices, strong comp.",
     "foundOn": "2026-09-21"
+  },
+  {
+    "id": "palantir-forward-deployed-software-engineer-new-grad-jobs-lever-co-palantir-e500",
+    "company": "Palantir",
+    "role": "Forward Deployed Software Engineer, New Grad",
+    "location": "Chicago, IL (hybrid)",
+    "salary": "$135k–$145k",
+    "url": "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
+    "source": "Lever",
+    "note": "Exp: new grad (Dec 2026/Spring 2027 grad) — builds custom apps + LLM workflows embedded with customers. Python/Java/TS.",
+    "foundOn": "2026-09-23"
+  },
+  {
+    "id": "hive-machine-learning-engineer-jobs-lever-co-hive-a06ede4e-46e3-40c8-b2e6-69af16",
+    "company": "Hive",
+    "role": "Machine Learning Engineer",
+    "location": "Seattle, WA",
+    "salary": "$120k–$180k",
+    "url": "https://jobs.lever.co/hive/a06ede4e-46e3-40c8-b2e6-69af1658ab50",
+    "source": "Lever",
+    "note": "Exp: 1-2 yrs industry ML — fast-growing AI content-moderation startup; train/deploy deep learning models into production.",
+    "foundOn": "2026-09-23"
+  },
+  {
+    "id": "twilio-software-engineer-platform-engineering-l2-job-boards-greenhouse-io-twilio",
+    "company": "Twilio",
+    "role": "Software Engineer, Platform Engineering (L2)",
+    "location": "Remote (US, excl. CA/CT/NJ/NY/PA/WA)",
+    "salary": "$116,960–$146,200",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8026207",
+    "source": "Greenhouse",
+    "note": "Exp: 1-2+ yrs — backend/Kubernetes platform role at large public co; explicitly mentored by senior engineers; uses AI-assisted dev tooling (Claude Code).",
+    "foundOn": "2026-09-23"
+  },
+  {
+    "id": "the-nuclear-company-ai-engineer-1-compliance-quality-testing-job-boards-greenhou",
+    "company": "The Nuclear Company",
+    "role": "AI Engineer 1 - Compliance, Quality & Testing",
+    "location": "Washington, DC",
+    "salary": "$80k–$150k",
+    "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5286179008",
+    "source": "Greenhouse",
+    "note": "Exp: 0-2 yrs (explicit) — entry-level AI-augmented test engineering role; builds/tests AI-powered features; fast-growing energy startup.",
+    "foundOn": "2026-09-23"
+  },
+  {
+    "id": "iterable-software-engineer-ii-job-boards-greenhouse-io-iterable-jobs-7783095",
+    "company": "Iterable",
+    "role": "Software Engineer II",
+    "location": "Atlanta, GA / Austin, TX / Boston, MA / Chicago, IL / Hybrid Denver, NY, or SF",
+    "salary": "$114,500–$188,000",
+    "url": "https://job-boards.greenhouse.io/iterable/jobs/7783095",
+    "source": "Greenhouse",
+    "note": "Exp: 3+ yrs — mid-level backend role at an AI-powered customer engagement platform; multiple city options.",
+    "foundOn": "2026-09-23"
+  },
+  {
+    "id": "futurefit-ai-software-engineer-jobs-ashbyhq-com-futurefitai-df12191c-3c81-4750-9",
+    "company": "FutureFit AI",
+    "role": "Software Engineer",
+    "location": "Remote (US/Canada, ET preferred)",
+    "salary": "$150k–$185k (US)",
+    "url": "https://jobs.ashbyhq.com/futurefitai/df12191c-3c81-4750-9a17-4e6f94181599",
+    "source": "Ashby",
+    "note": "Exp: Mid-to-senior, ~5+ yrs for senior but \"strong mid-level candidates welcome\" (stretch) — full-stack at a mission-driven AI/SaaS workforce startup.",
+    "foundOn": "2026-09-23"
   }
 ]
