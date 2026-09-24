@@ -2495,5 +2495,82 @@
     "source": "Ashby",
     "note": "Exp: Mid-to-senior, ~5+ yrs for senior but \"strong mid-level candidates welcome\" (stretch) — full-stack at a mission-driven AI/SaaS workforce startup.",
     "foundOn": "2026-09-23"
+  },
+  {
+    "id": "pipe17-junior-software-engineer-ai-native-job-boards-greenhouse-io-pipe17-jobs-4",
+    "company": "Pipe17",
+    "role": "Junior Software Engineer, AI-Native",
+    "location": "Seattle, WA",
+    "salary": "",
+    "url": "https://job-boards.greenhouse.io/pipe17/jobs/4717950005",
+    "source": "Greenhouse",
+    "note": "Exp: 1-2 yrs out of college — on-site Seattle, JS/TS building AI agent integrations, automations & CLI tools across internal + customer-facing products. No visa sponsorship.",
+    "foundOn": "2026-09-24"
+  },
+  {
+    "id": "netic-software-engineer-product-jobs-ashbyhq-com-netic-48bf32b5-827d-4d6b-934f-5",
+    "company": "Netic",
+    "role": "Software Engineer, Product",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/netic/48bf32b5-827d-4d6b-934f-5f2c372baa38",
+    "source": "Ashby",
+    "note": "Exp: 2+ yrs delivering user-facing software at scale — Netic builds an AI agent platform for service enterprises; direct agents/product fit.",
+    "foundOn": "2026-09-24"
+  },
+  {
+    "id": "commerce-architects-software-engineer-i-se1-jobs-lever-co-commercearchitects-ec4",
+    "company": "Commerce Architects",
+    "role": "Software Engineer I (SE1)",
+    "location": "Spokane, WA (hybrid/remote by state eligibility)",
+    "salary": "$85,000–$105,000",
+    "url": "https://jobs.lever.co/commercearchitects/ec4bd3b5-3219-4524-805a-d9dff354c5ec",
+    "source": "Lever",
+    "note": "Exp: 1-3 yrs professional dev — Java/React/AWS/Terraform for enterprise cloud apps; comp slightly under target but explicit 12-18mo path to more ownership.",
+    "foundOn": "2026-09-24"
+  },
+  {
+    "id": "roo-full-stack-engineer-software-engineer-ii-job-boards-greenhouse-io-roo-jobs-5",
+    "company": "Roo",
+    "role": "Full Stack Engineer (Software Engineer II)",
+    "location": "Remote (US)",
+    "salary": "$135,000–$180,000 (tiered by location, up to $195k in SF/NYC)",
+    "url": "https://job-boards.greenhouse.io/roo/jobs/5381558008",
+    "source": "Greenhouse",
+    "note": "Exp: 2-4 yrs — React Native + backend on a veterinary staffing marketplace; team embraces AI-assisted dev workflows day to day.",
+    "foundOn": "2026-09-24"
+  },
+  {
+    "id": "technergetics-full-stack-software-engineer-ii-job-boards-greenhouse-io-technerge",
+    "company": "Technergetics",
+    "role": "Full Stack Software Engineer II",
+    "location": "Remote (US)",
+    "salary": "$90,000–$120,000",
+    "url": "https://job-boards.greenhouse.io/technergetics/jobs/4656544006",
+    "source": "Greenhouse",
+    "note": "Exp: 3+ yrs preferred (flexible) — Go/Node/React/TS, incorporating AI tools into the workflow; comp a touch under target but fully remote.",
+    "foundOn": "2026-09-24"
+  },
+  {
+    "id": "simple-ai-forward-deployed-software-engineer-www-ycombinator-com-companies-simpl",
+    "company": "Simple AI",
+    "role": "Forward Deployed Software Engineer",
+    "location": "San Francisco, CA",
+    "salary": "$100,000–$180,000",
+    "url": "https://www.ycombinator.com/companies/simple-ai/jobs/tuP4mK7-forward-deployed-software-engineer",
+    "source": "Y Combinator",
+    "note": "Exp: 1+ yr post-college, new grads OK — voice AI agent platform, customer-facing build-and-ship role at a YC-backed startup.",
+    "foundOn": "2026-09-24"
+  },
+  {
+    "id": "entangl-full-stack-engineer-www-ycombinator-com-companies-entangl-jobs-nu9j4ua-f",
+    "company": "Entangl",
+    "role": "Full Stack Engineer",
+    "location": "New York, NY",
+    "salary": "$120,000–$180,000",
+    "url": "https://www.ycombinator.com/companies/entangl/jobs/nu9J4uA-full-stack-engineer",
+    "source": "Y Combinator",
+    "note": "Exp: any level, new grads welcome — AI infrastructure for data centers; full stack across backend, AI workflows & UI on a small founding team.",
+    "foundOn": "2026-09-24"
   }
 ]
