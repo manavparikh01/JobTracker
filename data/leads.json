@@ -2572,5 +2572,93 @@
     "source": "Y Combinator",
     "note": "Exp: any level, new grads welcome — AI infrastructure for data centers; full stack across backend, AI workflows & UI on a small founding team.",
     "foundOn": "2026-09-24"
+  },
+  {
+    "id": "charterup-software-engineer-ii-full-stack-job-boards-greenhouse-io-charterup-job",
+    "company": "CharterUP",
+    "role": "Software Engineer II - Full Stack",
+    "location": "Austin, TX (Hybrid, Mon/Wed/Fri in-office)",
+    "salary": "$120,000–$135,000",
+    "url": "https://job-boards.greenhouse.io/charterup/jobs/5129235008",
+    "source": "Greenhouse",
+    "note": "Exp: 2+ yrs — full-stack JS/Java on a two-sided marketplace platform, AWS deployment exposure.",
+    "foundOn": "2026-09-25"
+  },
+  {
+    "id": "waymark-junior-software-engineer-job-boards-greenhouse-io-waymark-jobs-471182700",
+    "company": "Waymark",
+    "role": "Junior Software Engineer",
+    "location": "Remote (US)",
+    "salary": "$82,000–$137,000 (varies by location tier)",
+    "url": "https://job-boards.greenhouse.io/waymark/jobs/4711827005",
+    "source": "Greenhouse",
+    "note": "Exp: early career (internships/bootcamp/personal projects OK) — mentored role on a healthcare/Medicaid product, Elixir/React/TS stack, no prior Elixir needed.",
+    "foundOn": "2026-09-25"
+  },
+  {
+    "id": "palantir-software-engineer-new-grad-infrastructure-jobs-lever-co-palantir-4abf26",
+    "company": "Palantir",
+    "role": "Software Engineer, New Grad - Infrastructure",
+    "location": "New York, NY (Hybrid)",
+    "salary": "$145,000–$155,000",
+    "url": "https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4",
+    "source": "Lever",
+    "note": "Exp: new grad — Foundations org building shared backend/dev-tooling/storage infra used across Palantir's platforms.",
+    "foundOn": "2026-09-25"
+  },
+  {
+    "id": "maywood-applied-ai-engineer-www-ycombinator-com-companies-maywood-jobs-dv7gbkh-a",
+    "company": "Maywood",
+    "role": "Applied AI Engineer",
+    "location": "New York, NY",
+    "salary": "$150,000–$250,000",
+    "url": "https://www.ycombinator.com/companies/maywood/jobs/DV7GBKh-applied-ai-engineer",
+    "source": "Y Combinator",
+    "note": "Exp: any level, new grads welcome — building LLM/agent tooling into CI/CD and infra automation at a YC-backed startup.",
+    "foundOn": "2026-09-25"
+  },
+  {
+    "id": "amazon-software-development-engineer-2026-us-www-amazon-jobs-en-jobs-3177934-sof",
+    "company": "Amazon",
+    "role": "Software Development Engineer - 2026 (US)",
+    "location": "Multiple US locations",
+    "salary": "$110,500–$160,000 (Seattle, WA listing)",
+    "url": "https://www.amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us",
+    "source": "Company site",
+    "note": "Exp: new grad/entry-level — standard big-tech new-grad SDE pipeline building distributed, cloud-native systems at scale.",
+    "foundOn": "2026-09-25"
+  },
+  {
+    "id": "quora-software-engineer-machine-learning-platform-new-grad-remote-jobs-ashbyhq-c",
+    "company": "Quora",
+    "role": "Software Engineer, Machine Learning Platform, New Grad (Remote)",
+    "location": "Remote (US)",
+    "salary": "$97,600–$139,000",
+    "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db",
+    "source": "Ashby",
+    "note": "Exp: new grad (2025/2026) — GPU model serving & distributed systems for Quora's ML infra platform, with senior mentorship.",
+    "foundOn": "2026-09-25"
+  },
+  {
+    "id": "runpod-software-engineer-full-stack-jobs-ashbyhq-com-runpod-b64a3935-931a-4b7f-9",
+    "company": "Runpod",
+    "role": "Software Engineer (Full-Stack)",
+    "location": "Remote (US)",
+    "salary": "$130,000–$200,000",
+    "url": "https://jobs.ashbyhq.com/runpod/b64a3935-931a-4b7f-9899-7ebe152164c5",
+    "source": "Ashby",
+    "note": "Exp: 'some experience' in Python/TS, junior-friendly — full-stack work connecting AI engineering with GPU cloud infra, open-source SDK.",
+    "foundOn": "2026-09-25"
+  },
+  {
+    "id": "ramp-university-grad-2026-software-engineer-backend-jobs-technyc-org-companies-r",
+    "company": "Ramp",
+    "role": "University Grad 2026: Software Engineer - Backend",
+    "location": "New York, NY (Hybrid)",
+    "salary": "$142,300–$175,000",
+    "url": "https://jobs.technyc.org/companies/ramp-2/jobs/55723314-university-grad-2026-software-engineer-backend",
+    "source": "Tech:NYC Job Board",
+    "note": "Exp: new grad — backend on fintech risk/fraud detection platform, Flask/AWS/Postgres.",
+    "foundOn": "2026-09-25"
   }
 ]
