@@ -2748,5 +2748,203 @@
     "source": "Greenhouse",
     "note": "Exp: 3mo–2 yrs technical experience — Defense-tech early-career program, multiple big-city US locations.",
     "foundOn": "2026-09-27"
+  },
+  {
+    "id": "openai-software-engineer-applied-emerging-talent-2027-openai-com-careers-softwar",
+    "company": "OpenAI",
+    "role": "Software Engineer, Applied Emerging Talent (2027)",
+    "location": "San Francisco, CA",
+    "salary": "$180,000 + equity",
+    "url": "https://openai.com/careers/software-engineer-applied-emerging-talent-(2027)-san-francisco/",
+    "source": "Company site",
+    "note": "Exp: 0-1 yrs — Entry-level SWE role built for recent grads with interest in AI/ML; JS/React/Python + relational DB skills, direct AI experience not required.",
+    "foundOn": "2026-09-28"
+  },
+  {
+    "id": "notion-software-engineer-fullstack-early-career-jobs-ashbyhq-com-notion-f7399542",
+    "company": "Notion",
+    "role": "Software Engineer, Fullstack, Early Career",
+    "location": "San Francisco, CA (Onsite)",
+    "salary": "$130,000-$150,000",
+    "url": "https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b",
+    "source": "Ashby",
+    "note": "Exp: <2 yrs — Fullstack early-career track at a fast-growing productivity/AI company; matched to teams based on interest.",
+    "foundOn": "2026-09-28"
+  },
+  {
+    "id": "stripe-software-engineer-early-career-immediate-start-stripe-com-careers-listing",
+    "company": "Stripe",
+    "role": "Software Engineer, Early Career — Immediate Start",
+    "location": "New York, NY / Seattle, WA / South San Francisco, CA",
+    "salary": "$122,100-$134,400",
+    "url": "https://stripe.com/careers/listing/software-engineer-early-career-immediate-start/8212508",
+    "source": "Company site",
+    "note": "Exp: <=18 months professional experience (excl. internships) — Immediate-start early-career SWE role at Stripe; strong general backend/full-stack brand name.",
+    "foundOn": "2026-09-28"
+  },
+  {
+    "id": "whatnot-software-engineer-2027-new-grad-www-whatnot-com-careers-roles-29bad846-d",
+    "company": "Whatnot",
+    "role": "Software Engineer, 2027 New Grad",
+    "location": "NYC / SF / LA / Seattle / Remote (US hub-based)",
+    "salary": "$155,000-$160,000 + equity",
+    "url": "https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930",
+    "source": "Company site",
+    "note": "Exp: new grad (some SWE experience helpful) — Fast-growing live-commerce marketplace, multiple big-city US locations plus remote option.",
+    "foundOn": "2026-09-28"
+  },
+  {
+    "id": "sentry-software-engineer-new-grad-sentry-io-careers-143811c1-ec03-458b-9edf-32f0",
+    "company": "Sentry",
+    "role": "Software Engineer, New Grad",
+    "location": "San Francisco, CA (Hybrid — Mon/Tue/Thu in-office)",
+    "salary": "$134,000-$144,000",
+    "url": "https://sentry.io/careers/143811c1-ec03-458b-9edf-32f002c818f0",
+    "source": "Company site",
+    "note": "Exp: new grad (1+ internship or equivalent) — Well-regarded dev-tools company; note: no visa sponsorship for this role.",
+    "foundOn": "2026-09-28"
+  },
+  {
+    "id": "twilio-software-engineer-early-career-messaging-api-job-boards-greenhouse-io-twi",
+    "company": "Twilio",
+    "role": "Software Engineer, Early Career - Messaging API",
+    "location": "Remote - US (excludes CA, CT, NJ, NY, PA, WA)",
+    "salary": "$120,000-$141,000 (by location)",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7019464",
+    "source": "Greenhouse",
+    "note": "Exp: 0-2 yrs — Entry-level backend/API role on Twilio's Messaging platform, fully remote in most US states.",
+    "foundOn": "2026-09-28"
+  },
+  {
+    "id": "elevenlabs-full-stack-engineer-elevenlabs-io-careers-6a530871-b6c6-4783-ac6b-69c",
+    "company": "ElevenLabs",
+    "role": "Full-Stack Engineer",
+    "location": "Remote (global; optional London/NYC/SF/Warsaw offices)",
+    "salary": "",
+    "url": "https://elevenlabs.io/careers/6a530871-b6c6-4783-ac6b-69cc3b084192/full-stack-engineer",
+    "source": "Company site",
+    "note": "Exp: no formal experience/degree required — Leading voice-AI startup; evaluates on portfolio/GitHub instead of resume years, fully remote.",
+    "foundOn": "2026-09-28"
+  },
+  {
+    "id": "chroma-product-engineering-www-trychroma-com-careers-product-engineering",
+    "company": "Chroma",
+    "role": "Product Engineering",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "url": "https://www.trychroma.com/careers/product-engineering",
+    "source": "Company site",
+    "note": "Exp: 2+ yrs — Small, well-funded AI/RAG infrastructure startup (the vector DB many RAG stacks use); TypeScript/React product engineering role, strong AI-native fit.",
+    "foundOn": "2026-09-28"
+  },
+  {
+    "id": "pinterest-machine-learning-engineer-ii-responsible-ai-www-pinterestcareers-com-j",
+    "company": "Pinterest",
+    "role": "Machine Learning Engineer II, Responsible AI",
+    "location": "San Francisco, CA / Remote (US)",
+    "salary": "$138,905–$285,982",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8162046",
+    "source": "Greenhouse",
+    "note": "Exp: 2+ yrs (listing also asks MS/PhD) — ML-driven user-facing products, responsible AI focus; remote US OK",
+    "foundOn": "2026-09-29"
+  },
+  {
+    "id": "pinterest-machine-learning-engineer-ii-visual-ai-www-pinterestcareers-com-jobs-g",
+    "company": "Pinterest",
+    "role": "Machine Learning Engineer II, Visual AI",
+    "location": "San Francisco, CA / Remote (US)",
+    "salary": "$138,905–$285,982",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7697137",
+    "source": "Greenhouse",
+    "note": "Exp: 2+ yrs computer vision (MS/PhD preferred in listing) — Visual AI team; more CV than LLM",
+    "foundOn": "2026-09-29"
+  },
+  {
+    "id": "pinterest-software-engineer-ii-data-analytics-engineering-www-pinterestcareers-c",
+    "company": "Pinterest",
+    "role": "Software Engineer II, Data Analytics & Engineering",
+    "location": "San Francisco, CA / Remote (US)",
+    "salary": "$123,696–$254,667",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8213988",
+    "source": "Greenhouse",
+    "note": "Exp: 2+ yrs — analytics/data engineering SWE II; remote US OK, data-heavy rather than AI",
+    "foundOn": "2026-09-29"
+  },
+  {
+    "id": "asana-software-engineer-ai-teammates-experience-www-asana-com-jobs-apply-8155344",
+    "company": "Asana",
+    "role": "Software Engineer, AI Teammates Experience",
+    "location": "San Francisco, CA",
+    "salary": "$202,000–$299,000",
+    "url": "https://www.asana.com/jobs/apply/8155344?gh_jid=8155344",
+    "source": "Greenhouse",
+    "note": "Exp: 3+ yrs full-stack — AI agents ('AI Teammates') product work; hybrid SF, strong AI fit at the top of the junior/mid range",
+    "foundOn": "2026-09-29"
+  },
+  {
+    "id": "reddit-backend-engineer-iam-job-boards-greenhouse-io-reddit-jobs-8189317",
+    "company": "Reddit",
+    "role": "Backend Engineer, IAM",
+    "location": "Remote (US)",
+    "salary": "$164,200–$229,900",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8189317",
+    "source": "Greenhouse",
+    "note": "Exp: 3+ yrs backend distributed systems — auth/IAM backend, fully remote US; general SWE, not AI",
+    "foundOn": "2026-09-29"
+  },
+  {
+    "id": "figma-software-engineer-full-stack-boards-greenhouse-io-figma-jobs-5691911004-gh",
+    "company": "Figma",
+    "role": "Software Engineer - Full Stack",
+    "location": "San Francisco, CA / New York, NY / Remote (US)",
+    "salary": "$153,000–$376,000",
+    "url": "https://boards.greenhouse.io/figma/jobs/5691911004?gh_jid=5691911004",
+    "source": "Greenhouse",
+    "note": "Exp: not stated (opening spans varying seniority levels) — full-stack at Figma, posting refreshed 2026-09-24",
+    "foundOn": "2026-09-29"
+  },
+  {
+    "id": "vercel-software-engineer-backend-job-boards-greenhouse-io-vercel-jobs-5430088004",
+    "company": "Vercel",
+    "role": "Software Engineer, Backend",
+    "location": "Remote (US)",
+    "salary": "$196,000–$294,000",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/5430088004",
+    "source": "Greenhouse",
+    "note": "Exp: not stated in listing (could skew senior given pay band) — remote US backend at AI-cloud company",
+    "foundOn": "2026-09-29"
+  },
+  {
+    "id": "scale-ai-frontier-agents-engineer-applied-ai-job-boards-greenhouse-io-scaleai-jo",
+    "company": "Scale AI",
+    "role": "Frontier Agents Engineer (Applied AI)",
+    "location": "San Francisco, CA / New York, NY",
+    "salary": "$180,000–$225,000",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720573005",
+    "source": "Greenhouse",
+    "note": "Exp: 4+ yrs (stretch) — agents/applied AI, exactly his target domain",
+    "foundOn": "2026-09-29"
+  },
+  {
+    "id": "figma-software-engineer-ai-product-boards-greenhouse-io-figma-jobs-5551730004-gh",
+    "company": "Figma",
+    "role": "Software Engineer - AI Product",
+    "location": "San Francisco, CA / New York, NY / Remote (US)",
+    "salary": "$153,000–$376,000",
+    "url": "https://boards.greenhouse.io/figma/jobs/5551730004?gh_jid=5551730004",
+    "source": "Greenhouse",
+    "note": "Exp: 5+ yrs with 1+ yr gen-AI products (stretch) — generative AI product engineering",
+    "foundOn": "2026-09-29"
+  },
+  {
+    "id": "vercel-software-engineer-ai-sdk-job-boards-greenhouse-io-vercel-jobs-5474915004",
+    "company": "Vercel",
+    "role": "Software Engineer, AI SDK",
+    "location": "New York, NY (hybrid)",
+    "salary": "$196,000–$294,000",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/5474915004",
+    "source": "Greenhouse",
+    "note": "Exp: 5+ yrs (stretch) — AI SDK team, LLM developer tooling",
+    "foundOn": "2026-09-29"
   }
 ]
