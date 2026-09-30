@@ -2946,5 +2946,38 @@
     "source": "Greenhouse",
     "note": "Exp: 5+ yrs (stretch) — AI SDK team, LLM developer tooling",
     "foundOn": "2026-09-29"
+  },
+  {
+    "id": "retell-ai-software-engineer-new-grad-jobs-ashbyhq-com-retell-ai-ea775189-0496-43",
+    "company": "Retell AI",
+    "role": "Software Engineer (New Grad)",
+    "location": "Redwood City, CA",
+    "salary": "$83k–$104k",
+    "url": "https://jobs.ashbyhq.com/retell-ai/ea775189-0496-43d8-a386-df8148265463",
+    "source": "Ashby",
+    "note": "Exp: new grad — builds production AI agent workflows/automations on Founders Initiatives team; salary below target but AI-agent focus. Relocation provided.",
+    "foundOn": "2026-09-30"
+  },
+  {
+    "id": "netic-software-engineer-agent-platform-new-grad-jobs-ashbyhq-com-netic-d9bcb6a2-",
+    "company": "Netic",
+    "role": "Software Engineer (Agent Platform) - New Grad",
+    "location": "",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f",
+    "source": "Ashby",
+    "note": "Exp: new grad (2026-2027) — agent platform role; location/salary not visible, check listing.",
+    "foundOn": "2026-09-30"
+  },
+  {
+    "id": "netic-full-stack-software-engineer-product-new-grad-jobs-ashbyhq-com-netic-bab5d",
+    "company": "Netic",
+    "role": "Full-Stack Software Engineer (Product) - New Grad",
+    "location": "",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3",
+    "source": "Ashby",
+    "note": "Exp: new grad (2026-2027) — full-stack product role at AI startup; location/salary not visible, check listing.",
+    "foundOn": "2026-09-30"
   }
 ]
