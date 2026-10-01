@@ -2979,5 +2979,38 @@
     "source": "Ashby",
     "note": "Exp: new grad (2026-2027) — full-stack product role at AI startup; location/salary not visible, check listing.",
     "foundOn": "2026-09-30"
+  },
+  {
+    "id": "applied-intuition-software-engineer-new-grad-december-2026-jobs-ashbyhq-com-appl",
+    "company": "Applied Intuition",
+    "role": "Software Engineer - New Grad (December 2026)",
+    "location": "Sunnyvale, CA (Bay Area) / other US offices",
+    "salary": "",
+    "url": "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694",
+    "source": "Ashby",
+    "note": "Exp: 1+ yr any field — full-stack on physical-AI/autonomy products; 5 days in office",
+    "foundOn": "2026-10-01"
+  },
+  {
+    "id": "machinify-ai-engineer-agentic-systems-l4-job-boards-greenhouse-io-machinifyinc-j",
+    "company": "Machinify",
+    "role": "AI Engineer | Agentic Systems (L4)",
+    "location": "Remote (US)",
+    "salary": "$130k–$200k+",
+    "url": "https://job-boards.greenhouse.io/machinifyinc/jobs/4146862009",
+    "source": "Greenhouse",
+    "note": "Exp: 2–4 yrs applied ML/AI (Master's w/ no industry exp OK) — agent architectures, evals; slight stretch on years",
+    "foundOn": "2026-10-01"
+  },
+  {
+    "id": "blen-ai-engineer-jobs-lever-co-blencorp-4b2e3689-9720-4785-b0fe-d09bd5325f74",
+    "company": "BLEN",
+    "role": "AI Engineer",
+    "location": "Remote (US)",
+    "salary": "$130k–$150k",
+    "url": "https://jobs.lever.co/blencorp/4b2e3689-9720-4785-b0fe-d09bd5325f74",
+    "source": "Lever",
+    "note": "Exp: 5+ yrs (stretch) — agents, RAG, MCP for federal/commercial clients",
+    "foundOn": "2026-10-01"
   }
 ]
